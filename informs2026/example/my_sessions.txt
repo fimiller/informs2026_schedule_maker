@@ -1,0 +1,9 @@
+# Example my_sessions.txt: what you've already decided. Lines higher up win ties.
+# The build adds a "# why" comment to each line that doesn't have one.
+TC45 mine
+Coffee - Tue 8:30am - Dimitris Bertsimas
+Lunch - Mon 12:15pm - Jane Example
+MA13
+TA65
+-SB12
+Advisor call - Wed 9:30am-10:15am

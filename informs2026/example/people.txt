@@ -1,0 +1,15 @@
+# Example people list (names taken from the public INFORMS 2026 program).
+# Format: Name | tier | note | affiliation
+Retsef Levi | 1 | tier 1: you'll see a talk, and they're still on the invite list
+Pascal Van Hentenryck | 1 | only co-author/chair: look for them, and invite
+Jane Example | 1 | not in the program; the lunch in my_sessions.txt counts as meeting them
+Jeff Linderoth | 2 | the TA65 talk loses to the coffee placed above it in my_sessions.txt
+Wedad Elmaghraby | 2 | presents twice (a talk and a panel); any one is enough
+Dimitris Bertsimas | 2 | only a co-author; the coffee in my_sessions.txt covers them
+Dan Bienstock | 2 | nickname: listed as Daniel Bienstock
+Weijun Xie | 2 | two affiliations in the program; the 4th field picks one | Georgia Tech
+Xin Liu | 2 | common name: lands in VERIFY
+Bogdana Jelic | 3 | accents are ignored: listed as Bogdana Jelić
+Shixin Wang | 3 | listed as both "Georgia Tech" and "Georgia Institute of Technology"
+Laura Albert | 3 | tier 3: scheduled when nothing higher competes
+Michael Jordan | 3 | the program's Michael Jordan is someone else, so "-" marks them missing | -

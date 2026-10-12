@@ -1,0 +1,31 @@
+# --- Personal inputs (example/ has public stand-ins) ---
+informs2026/people.txt
+informs2026/my_sessions.txt
+
+# --- Generated outputs: contain your schedule, names, and meeting plans ---
+informs2026/itinerary.md
+informs2026/itinerary.html
+informs2026/itinerary.ics
+informs2026/calendar/
+
+# --- Scraped program data (regenerate with scrape.py) ---
+informs2026/sessions.json
+informs2026/.cache/
+
+# --- Personal notes / drafts not part of the tool ---
+prompts.txt
+lab_share.md
+informs2026/social_startup.md
+
+# --- Claude Code local settings (contain absolute paths with your username) ---
+.claude/settings.local.json
+
+# --- Python ---
+.venv/
+__pycache__/
+*.py[cod]
+
+# --- OS / editor ---
+.DS_Store
+.vscode/
+.idea/

@@ -1,0 +1,3083 @@
+{
+ "scraped_at": "2026-10-07T16:44:53+00:00",
+ "source": "https://submissions.mirasmart.com/InformsAnnual2026/Itinerary/EventsAAG.aspx",
+ "sessions": [
+  {
+   "evt": 252,
+   "code": "SB12",
+   "title": "Advances in Computational Methods for Medical Decision Making and Healthcare Operations",
+   "type": "Invited Session",
+   "track": "Health Applications Society",
+   "room": "Moscone South-105 (South Lobby)",
+   "time": "11:00 AM - 12:15 PM",
+   "day": "Sunday",
+   "date": "November 1",
+   "start": "11:00",
+   "end": "12:15",
+   "chairs": [
+    "Mark Van Oyen",
+    "Sogand Soghrati Ghasbeh"
+   ],
+   "panelists": [],
+   "moderators": [],
+   "fields": {
+    "Session Title": "Advances in Computational Methods for Medical Decision Making and Healthcare Operations",
+    "Session Type": "Invited Session",
+    "Topic": "Health Applications Society",
+    "Co-Topic 1": "Health Applications Society",
+    "Co-Topic 2": "Health Applications Society",
+    "Room": "Moscone South-105 (South Lobby)",
+    "Session Chair 1": "Mark Van Oyen",
+    "Session Chair 2": "Sogand Soghrati Ghasbeh"
+   },
+   "url": "https://submissions.mirasmart.com/InformsAnnual2026/Itinerary/EventDetail.aspx?evt=252",
+   "talks": [
+    {
+     "evdid": 1103,
+     "number": "1",
+     "time": "11:00-11:18",
+     "title": "Implementation of a Short-Stay Patient Prediction Model in the Mass General Hospital ED",
+     "authors": [
+      {
+       "name": "A. Cecilia Zenteno",
+       "affiliation": "Massachusetts General Hospital",
+       "presenter": true
+      },
+      {
+       "name": "Martin Copenhaver",
+       "affiliation": "Johns Hopkins Hospital and Johns Hopkins University",
+       "presenter": false
+      },
+      {
+       "name": "Retsef Levi",
+       "affiliation": "MIT",
+       "presenter": false
+      },
+      {
+       "name": "Peter Dunn",
+       "affiliation": "Massachusetts General Hospital",
+       "presenter": false
+      },
+      {
+       "name": "Bethany Daily",
+       "affiliation": "Massachusetts General Hospital",
+       "presenter": false
+      },
+      {
+       "name": "Pratyush Bhattacharya",
+       "affiliation": "Massachusetts General Hospital",
+       "presenter": false
+      },
+      {
+       "name": "Thomas Kyle",
+       "affiliation": "Massachusetts Instiute of Technology",
+       "presenter": false
+      },
+      {
+       "name": "Kyan Safavi",
+       "affiliation": "MassGeneral Brigham",
+       "presenter": false
+      }
+     ],
+     "presenter": "A. Cecilia Zenteno"
+    },
+    {
+     "evdid": 1105,
+     "number": "2",
+     "time": "11:18-11:36",
+     "title": "Flexible Buffer Sizing in a Tandem Queue with Downstream Blocking: A Finite-Horizon MDP Approach with Numerical Solutions",
+     "authors": [
+      {
+       "name": "Jairo Alejandro Martinez-Correa",
+       "affiliation": "University of Wisconsin -Madison",
+       "presenter": true
+      },
+      {
+       "name": "Gabriel Zayas-Caban",
+       "affiliation": "University of Wisconsin-Madison",
+       "presenter": false
+      },
+      {
+       "name": "David Kaufman",
+       "affiliation": "University of Michigan - Dearborn",
+       "presenter": false
+      }
+     ],
+     "presenter": "Jairo Alejandro Martinez-Correa"
+    },
+    {
+     "evdid": 1106,
+     "number": "3",
+     "time": "11:36-11:54",
+     "title": "Predicting and Tracking Surgical Discharge Readiness for Daily Capacity Management Using Multimodal Deep Learning",
+     "authors": [
+      {
+       "name": "Natasha Patnaik",
+       "affiliation": "Massachusetts Institute of Technology",
+       "presenter": true
+      },
+      {
+       "name": "A. Cecilia Zenteno",
+       "affiliation": "Massachusetts General Hospital",
+       "presenter": false
+      },
+      {
+       "name": "Michael Hu",
+       "affiliation": "Massachusetts General Hospital",
+       "presenter": false
+      },
+      {
+       "name": "Pratyush Bhattacharya",
+       "affiliation": "Massachusetts General Hospital",
+       "presenter": false
+      },
+      {
+       "name": "Bethany Daily",
+       "affiliation": "Massachusetts General Hospital",
+       "presenter": false
+      },
+      {
+       "name": "Peter Dunn",
+       "affiliation": "Massachusetts General Hospital",
+       "presenter": false
+      },
+      {
+       "name": "Retsef Levi",
+       "affiliation": "Massachusetts Institute of Technology",
+       "presenter": false
+      }
+     ],
+     "presenter": "Natasha Patnaik"
+    },
+    {
+     "evdid": 1107,
+     "number": "4",
+     "time": "11:54-12:12",
+     "title": "Hospital Admission and Patient Transfer Control: An Offline Doubly-Robust Learning Approach",
+     "authors": [
+      {
+       "name": "Sogand Soghrati Ghasbeh",
+       "affiliation": "University of Michigan",
+       "presenter": true
+      },
+      {
+       "name": "Esmaeil Keyvanshokooh",
+       "affiliation": "Mays Business School, Texas A&M University",
+       "presenter": false
+      },
+      {
+       "name": "Arlen Dean",
+       "affiliation": "Washington University in St. Louis",
+       "presenter": false
+      },
+      {
+       "name": "Mark Van Oyen",
+       "affiliation": "University of Michigan",
+       "presenter": false
+      }
+     ],
+     "presenter": "Sogand Soghrati Ghasbeh"
+    }
+   ]
+  },
+  {
+   "evt": 67,
+   "code": "SD46",
+   "title": "Advances in Analytics & Data-Driven Methods",
+   "type": "Invited Session",
+   "track": "Revenue Management Section",
+   "room": "Moscone South-308 (Level 3)",
+   "time": "2:45 PM - 4:00 PM",
+   "day": "Sunday",
+   "date": "November 1",
+   "start": "14:45",
+   "end": "16:00",
+   "chairs": [
+    "Spyros Zoumpoulis",
+    "Stefanos Poulidis"
+   ],
+   "panelists": [],
+   "moderators": [],
+   "fields": {
+    "Session Title": "Advances in Analytics & Data-Driven Methods",
+    "Session Type": "Invited Session",
+    "Topic": "Revenue Management Section",
+    "Co-Topic 1": "Revenue Management Section",
+    "Co-Topic 2": "Revenue Management Section",
+    "Room": "Moscone South-308 (Level 3)",
+    "Session Chair 1": "Spyros Zoumpoulis",
+    "Session Chair 2": "Stefanos Poulidis"
+   },
+   "url": "https://submissions.mirasmart.com/InformsAnnual2026/Itinerary/EventDetail.aspx?evt=67",
+   "talks": [
+    {
+     "evdid": 283,
+     "number": "1",
+     "time": "14:45-15:03",
+     "title": "Optimal Bundles in Land Freight Auctions",
+     "authors": [
+      {
+       "name": "Retsef Levi",
+       "affiliation": "MIT",
+       "presenter": true
+      },
+      {
+       "name": "Yuetong Xu",
+       "affiliation": "MIT",
+       "presenter": false
+      }
+     ],
+     "presenter": "Retsef Levi"
+    },
+    {
+     "evdid": 285,
+     "number": "2",
+     "time": "15:03-15:21",
+     "title": "Division of Labor and the On-Demand Economy: Implications for System Design",
+     "authors": [
+      {
+       "name": "Himani Ananthula",
+       "affiliation": "Kellogg School of Management, Northwestern University",
+       "presenter": true
+      },
+      {
+       "name": "Milind Sohoni",
+       "affiliation": "University at Buffalo, The State University of New York",
+       "presenter": false
+      },
+      {
+       "name": "Achal Bassamboo",
+       "affiliation": "Northwestern University",
+       "presenter": false
+      }
+     ],
+     "presenter": "Himani Ananthula"
+    },
+    {
+     "evdid": 465,
+     "number": "3",
+     "time": "15:21-15:39",
+     "title": "Operations-informed probabilistic forecasting of emergency department wait times",
+     "authors": [
+      {
+       "name": "Ragip Gurlek",
+       "affiliation": "CSU San Marcos",
+       "presenter": false
+      },
+      {
+       "name": "Francis de Vericourt",
+       "affiliation": "ESMT",
+       "presenter": false
+      },
+      {
+       "name": "Donald Lee",
+       "affiliation": "Emory University",
+       "presenter": true
+      }
+     ],
+     "presenter": "Donald Lee"
+    },
+    {
+     "evdid": 1201,
+     "number": "4",
+     "time": "15:39-15:57",
+     "title": "Dynamic Control of Large-Scale Service Systems in Heavy Traffic",
+     "authors": [
+      {
+       "name": "Baris Ata",
+       "affiliation": "University of Chicago, Booth School of Business",
+       "presenter": false
+      },
+      {
+       "name": "Yaosheng Xu",
+       "affiliation": "University of Chicago, Booth School of Business",
+       "presenter": true
+      }
+     ],
+     "presenter": "Yaosheng Xu"
+    }
+   ]
+  },
+  {
+   "evt": 174,
+   "code": "SD50",
+   "title": "Queueing and Learning",
+   "type": "Invited Session",
+   "track": "Applied Probability Society",
+   "room": "Moscone South-313 (Level 3)",
+   "time": "2:45 PM - 4:00 PM",
+   "day": "Sunday",
+   "date": "November 1",
+   "start": "14:45",
+   "end": "16:00",
+   "chairs": [
+    "Xinyun Chen"
+   ],
+   "panelists": [],
+   "moderators": [],
+   "fields": {
+    "Session Title": "Queueing and Learning",
+    "Session Type": "Invited Session",
+    "Topic": "Applied Probability Society",
+    "Co-Topic 1": "Applied Probability Society",
+    "Co-Topic 2": "Applied Probability Society",
+    "Room": "Moscone South-313 (Level 3)",
+    "Session Chair 1": "Xinyun Chen"
+   },
+   "url": "https://submissions.mirasmart.com/InformsAnnual2026/Itinerary/EventDetail.aspx?evt=174",
+   "talks": [
+    {
+     "evdid": 755,
+     "number": "1",
+     "time": "14:45-15:00",
+     "title": "Data-driven Scheduling with Unknown Patience Time Distributions",
+     "authors": [
+      {
+       "name": "Lun Yu",
+       "affiliation": "Chinese University of Hong Kong, Shenzhen",
+       "presenter": true
+      },
+      {
+       "name": "Chenguang (Allen) Wu",
+       "affiliation": "Hong Kong University of Science and Technology",
+       "presenter": false
+      }
+     ],
+     "presenter": "Lun Yu"
+    },
+    {
+     "evdid": 756,
+     "number": "2",
+     "time": "15:00-15:15",
+     "title": "Light-Traffic Queueing Asymptotics for Location-Allocation Design in Emergency Service Systems",
+     "authors": [
+      {
+       "name": "Xin Wang",
+       "affiliation": "Ashley Furniture",
+       "presenter": false
+      },
+      {
+       "name": "Weiliang Liu",
+       "affiliation": "The Chinese University of Hong Kong",
+       "presenter": true
+      },
+      {
+       "name": "Loon Ching Tang",
+       "affiliation": "National University of Singapore",
+       "presenter": false
+      },
+      {
+       "name": "Zhisheng Ye",
+       "affiliation": "National University of Singapore",
+       "presenter": false
+      }
+     ],
+     "presenter": "Weiliang Liu"
+    },
+    {
+     "evdid": 757,
+     "number": "3",
+     "time": "15:15-15:30",
+     "title": "Zero-Waiting Load Balancing with Heterogeneous Servers in Heavy Traffic",
+     "authors": [
+      {
+       "name": "Xin Liu",
+       "affiliation": "ShanghaiTech University",
+       "presenter": true
+      },
+      {
+       "name": "Lei Ying",
+       "affiliation": "The University of Michigan, Ann Arbor",
+       "presenter": false
+      }
+     ],
+     "presenter": "Xin Liu"
+    },
+    {
+     "evdid": 758,
+     "number": "4",
+     "time": "15:30-15:45",
+     "title": "Self-Stabilizing Online Learning for Queueing Systems",
+     "authors": [
+      {
+       "name": "Xinyun Chen",
+       "affiliation": "The Chinese University of Hong Kong, Shenzhen",
+       "presenter": true
+      },
+      {
+       "name": "Guiyu Hong",
+       "affiliation": "Shanghai University of Finance and Economics",
+       "presenter": false
+      },
+      {
+       "name": "Xintong Jiang",
+       "affiliation": "The Chinese University of Hong Kong, Shenzhen",
+       "presenter": false
+      }
+     ],
+     "presenter": "Xinyun Chen"
+    },
+    {
+     "evdid": 1619,
+     "number": "5",
+     "time": "15:45-16:00",
+     "title": "Statistical inference in queueing via computable Stein discrepancies",
+     "authors": [
+      {
+       "name": "Anton Braverman",
+       "affiliation": "Northwestern University",
+       "presenter": true
+      },
+      {
+       "name": "Tarek Abdallah",
+       "affiliation": "Northwestern University, Kellogg School of Management",
+       "presenter": false
+      },
+      {
+       "name": "Wenhao Gu",
+       "affiliation": "Kellogg School of Management, Northwestern University",
+       "presenter": false
+      }
+     ],
+     "presenter": "Anton Braverman"
+    }
+   ]
+  },
+  {
+   "evt": 378,
+   "code": "SD61",
+   "title": "Logistic Network Design and Resource Allocation",
+   "type": "Invited Session",
+   "track": "Transportation Science and Logistics (TSL) Society",
+   "room": "Moscone South-8 (Exhibit Level)",
+   "time": "2:45 PM - 4:00 PM",
+   "day": "Sunday",
+   "date": "November 1",
+   "start": "14:45",
+   "end": "16:00",
+   "chairs": [
+    "Mansimran Singh"
+   ],
+   "panelists": [],
+   "moderators": [],
+   "fields": {
+    "Session Title": "Logistic Network Design and Resource Allocation",
+    "Session Type": "Invited Session",
+    "Topic": "Transportation Science and Logistics (TSL) Society",
+    "Co-Topic 1": "Transportation Science and Logistics (TSL) Society",
+    "Co-Topic 2": "Transportation Science and Logistics (TSL) Society",
+    "Room": "Moscone South-8 (Exhibit Level)",
+    "Session Chair 1": "Mansimran Singh"
+   },
+   "url": "https://submissions.mirasmart.com/InformsAnnual2026/Itinerary/EventDetail.aspx?evt=378",
+   "talks": [
+    {
+     "evdid": 1712,
+     "number": "1",
+     "time": "14:45-15:03",
+     "title": "Evaluating the Trade-off Between Model Fidelity and Computational Tractability in Logistics Network Design",
+     "authors": [
+      {
+       "name": "Weiqing (Lynn) Xu",
+       "affiliation": "Georgia Institute of Technology",
+       "presenter": true
+      },
+      {
+       "name": "Lacy Greening",
+       "affiliation": "Arizona State University",
+       "presenter": false
+      },
+      {
+       "name": "Alan Erera",
+       "affiliation": "Georgia Tech",
+       "presenter": false
+      }
+     ],
+     "presenter": "Weiqing (Lynn) Xu"
+    },
+    {
+     "evdid": 1713,
+     "number": "2",
+     "time": "15:03-15:21",
+     "title": "A Fair OR–ML Framework for Resource Substitution in Large-Scale Networks",
+     "authors": [
+      {
+       "name": "Ved Mohan",
+       "affiliation": "Georgia Institute of Technology",
+       "presenter": true
+      },
+      {
+       "name": "El Mehdi Er Raqabi",
+       "affiliation": "Laval University",
+       "presenter": false
+      },
+      {
+       "name": "Pascal Van Hentenryck",
+       "affiliation": "Georgia Institute of Technology",
+       "presenter": false
+      }
+     ],
+     "presenter": "Ved Mohan"
+    },
+    {
+     "evdid": 1715,
+     "number": "3",
+     "time": "15:21-15:39",
+     "title": "A Principal-Agent Model for Time-Expanded EV Charging Network Design in Long-Haul Freight",
+     "authors": [
+      {
+       "name": "Mansimran Singh",
+       "affiliation": "University of Iowa",
+       "presenter": true
+      },
+      {
+       "name": "Ann Campbell",
+       "affiliation": "University of Iowa",
+       "presenter": false
+      },
+      {
+       "name": "Qi Luo",
+       "affiliation": "University of Iowa",
+       "presenter": false
+      }
+     ],
+     "presenter": "Mansimran Singh"
+    },
+    {
+     "evdid": 1716,
+     "number": "4",
+     "time": "15:39-15:57",
+     "title": "Nonlinear Resource Allocation at Scale: A Learning-to-Price Framework",
+     "authors": [
+      {
+       "name": "Alexandre Jacquillat",
+       "affiliation": "MIT Sloan School of Management",
+       "presenter": false
+      },
+      {
+       "name": "Gal Neria",
+       "affiliation": "MIT Sloan School of Management",
+       "presenter": true
+      },
+      {
+       "name": "Bart Van Rossum",
+       "affiliation": "Eindhoven University of Technology, The Netherlands",
+       "presenter": false
+      }
+     ],
+     "presenter": "Gal Neria"
+    }
+   ]
+  },
+  {
+   "evt": 48,
+   "code": "MA03",
+   "title": "Service provision in the age of AI",
+   "type": "Invited Session",
+   "track": "MSOM: Service Operations",
+   "room": "Moscone South-62 (Lower Mezz)",
+   "time": "8:00 AM - 9:15 AM",
+   "day": "Monday",
+   "date": "November 2",
+   "start": "08:00",
+   "end": "09:15",
+   "chairs": [
+    "Giacomo Mantegazza"
+   ],
+   "panelists": [],
+   "moderators": [],
+   "fields": {
+    "Session Title": "Service provision in the age of AI",
+    "Session Type": "Invited Session",
+    "Topic": "MSOM: Service Operations",
+    "Co-Topic 1": "MSOM: Service Operations",
+    "Co-Topic 2": "MSOM: Service Operations",
+    "Room": "Moscone South-62 (Lower Mezz)",
+    "Session Chair 1": "Giacomo Mantegazza"
+   },
+   "url": "https://submissions.mirasmart.com/InformsAnnual2026/Itinerary/EventDetail.aspx?evt=48",
+   "talks": [
+    {
+     "evdid": 194,
+     "number": "1",
+     "time": "08:00-08:18",
+     "title": "Optimal Pricing with Unreliable Signals",
+     "authors": [
+      {
+       "name": "Zhihao Tang",
+       "affiliation": "Shanghai University of Finance and Economics",
+       "presenter": false
+      },
+      {
+       "name": "Yixin Tao",
+       "affiliation": "Shanghai University of Finance and Economics",
+       "presenter": false
+      },
+      {
+       "name": "Shixin Wang",
+       "affiliation": "Georgia Tech",
+       "presenter": true
+      }
+     ],
+     "presenter": "S..."
+    },
+    {
+     "evdid": 195,
+     "number": "2",
+     "time": "08:18-08:36",
+     "title": "Task Selection and Execution with Generative AI",
+     "authors": [
+      {
+       "name": "Samantha Keppler",
+       "affiliation": "University of Michigan",
+       "presenter": false
+      },
+      {
+       "name": "Park Sinchaisri",
+       "affiliation": "University of California, Berkeley",
+       "presenter": false
+      },
+      {
+       "name": "Clare Snyder",
+       "affiliation": "NYU Stern",
+       "presenter": true
+      }
+     ],
+     "presenter": "Clare Snyder"
+    },
+    {
+     "evdid": 197,
+     "number": "3",
+     "time": "08:36-08:54",
+     "title": "Pricing in Dynamic Matching Platforms with Strategic Agents",
+     "authors": [
+      {
+       "name": "Tonghun Lee",
+       "affiliation": "UC Berkeley",
+       "presenter": true
+      },
+      {
+       "name": "Matthew Tsao",
+       "affiliation": "Stanford University",
+       "presenter": false
+      },
+      {
+       "name": "Chiwei Yan",
+       "affiliation": "UC Berkeley",
+       "presenter": false
+      }
+     ],
+     "presenter": "Tonghun Lee"
+    },
+    {
+     "evdid": 198,
+     "number": "4",
+     "time": "08:54-09:12",
+     "title": "Human Effort in the AI Value Chain: Crowdsourcing Data Annotation",
+     "authors": [
+      {
+       "name": "Rob Glew",
+       "affiliation": "Villanova University",
+       "presenter": true
+      },
+      {
+       "name": "Setareh Farajollahzadeh",
+       "affiliation": "McGill University",
+       "presenter": false
+      }
+     ],
+     "presenter": "Rob Glew"
+    }
+   ]
+  },
+  {
+   "evt": 277,
+   "code": "MA06",
+   "title": "Economic Intelligence in Returns and Recommerce: Lessons from Amazon",
+   "type": "Invited Session",
+   "track": "MSOM:Technology, Innovation, and Entrepreneurship",
+   "room": "Moscone South-74 (Lower Mezz)",
+   "time": "8:00 AM - 9:15 AM",
+   "day": "Monday",
+   "date": "November 2",
+   "start": "08:00",
+   "end": "09:15",
+   "chairs": [
+    "Wedad Elmaghraby",
+    "Tara Marden"
+   ],
+   "panelists": [],
+   "moderators": [],
+   "fields": {
+    "Session Title": "Economic Intelligence in Returns and Recommerce: Lessons from Amazon",
+    "Session Type": "Invited Session",
+    "Topic": "MSOM:Technology, Innovation, and Entrepreneurship",
+    "Co-Topic 1": "MSOM:Technology, Innovation, and Entrepreneurship",
+    "Co-Topic 2": "MSOM:Technology, Innovation, and Entrepreneurship",
+    "Room": "Moscone South-74 (Lower Mezz)",
+    "Session Chair 1": "Wedad Elmaghraby",
+    "Session Chair 2": "Tara Marden"
+   },
+   "url": "https://submissions.mirasmart.com/InformsAnnual2026/Itinerary/EventDetail.aspx?evt=277",
+   "talks": [
+    {
+     "evdid": 1228,
+     "number": "1",
+     "time": "08:00-08:15",
+     "title": "The Casual Effect of Customer Service Wait Times on Purchasing and Re-Engagement",
+     "authors": [
+      {
+       "name": "Daniel Asfaw",
+       "affiliation": "Amazon",
+       "presenter": true
+      },
+      {
+       "name": "Ebru Kasikaralar",
+       "affiliation": "Amazon",
+       "presenter": false
+      },
+      {
+       "name": "Xin Liu",
+       "affiliation": "Amazon",
+       "presenter": false
+      },
+      {
+       "name": "Stephanie Mao",
+       "affiliation": "Amazon.com",
+       "presenter": false
+      },
+      {
+       "name": "Azeem Shaikh",
+       "affiliation": "Amazon",
+       "presenter": false
+      }
+     ],
+     "presenter": "Daniel Asfaw"
+    },
+    {
+     "evdid": 1229,
+     "number": "2",
+     "time": "08:15-08:30",
+     "title": "Resolution Doesn't Pay, Humans Do: Decomposing the Customer Spending Impact oof Customer Service Quality",
+     "authors": [
+      {
+       "name": "Hayoung Cheon",
+       "affiliation": "Amazon",
+       "presenter": true
+      }
+     ],
+     "presenter": "Hayoung Cheon"
+    },
+    {
+     "evdid": 1230,
+     "number": "3",
+     "time": "08:30-08:45",
+     "title": "Choosing the Right Objective: A Free Cash Flow Approach to Resale Pricing",
+     "authors": [
+      {
+       "name": "Joe Cooprider",
+       "affiliation": "Amazon",
+       "presenter": true
+      }
+     ],
+     "presenter": "Joe Cooprider"
+    },
+    {
+     "evdid": 1231,
+     "number": "4",
+     "time": "08:45-09:00",
+     "title": "Quantifying the Value of Amazon's Free and Seamless Returns",
+     "authors": [
+      {
+       "name": "Chase Eck",
+       "affiliation": "Amazon",
+       "presenter": true
+      },
+      {
+       "name": "Dodge Cahan",
+       "affiliation": "Amazon",
+       "presenter": false
+      }
+     ],
+     "presenter": "Chase Eck"
+    },
+    {
+     "evdid": 1232,
+     "number": "5",
+     "time": "09:00-09:15",
+     "title": "The long-run effects of customer returns",
+     "authors": [
+      {
+       "name": "Dodge Cahan",
+       "affiliation": "Amazon",
+       "presenter": true
+      }
+     ],
+     "presenter": "Dodge Cahan"
+    }
+   ]
+  },
+  {
+   "evt": 204,
+   "code": "MA13",
+   "title": "Global challenges in food security and water management",
+   "type": "Invited Session",
+   "track": "Manufacturing and Service Operations Management (MSOM)",
+   "room": "Moscone South-151 (Upper Mezz)",
+   "time": "8:00 AM - 9:15 AM",
+   "day": "Monday",
+   "date": "November 2",
+   "start": "08:00",
+   "end": "09:15",
+   "chairs": [
+    "Ali Aouad"
+   ],
+   "panelists": [],
+   "moderators": [],
+   "fields": {
+    "Session Title": "Global challenges in food security and water management",
+    "Session Type": "Invited Session",
+    "Topic": "Manufacturing and Service Operations Management (MSOM)",
+    "Co-Topic 1": "Manufacturing and Service Operations Management (MSOM)",
+    "Co-Topic 2": "Manufacturing and Service Operations Management (MSOM)",
+    "Room": "Moscone South-151 (Upper Mezz)",
+    "Session Chair 1": "Ali Aouad"
+   },
+   "url": "https://submissions.mirasmart.com/InformsAnnual2026/Itinerary/EventDetail.aspx?evt=204",
+   "talks": [
+    {
+     "evdid": 905,
+     "number": "1",
+     "time": "08:00-08:12",
+     "title": "Sustainable Management of a Water Reservoir System Facing Climate Uncertainty",
+     "authors": [
+      {
+       "name": "Felipe Caro",
+       "affiliation": "UCLA Anderson School of Management",
+       "presenter": false
+      },
+      {
+       "name": "Martin Glanzer",
+       "affiliation": "University of Mannheim Business School",
+       "presenter": false
+      },
+      {
+       "name": "Kumar Rajaram",
+       "affiliation": "UCLA Anderson School",
+       "presenter": true
+      }
+     ],
+     "presenter": "Kumar Rajara..."
+    },
+    {
+     "evdid": 906,
+     "number": "2",
+     "time": "08:12-08:24",
+     "title": "The Cost of Deforestation: Empirical Evidence on Flood Risk in Thailand",
+     "authors": [
+      {
+       "name": "Ali Aouad",
+       "affiliation": "MIT",
+       "presenter": false
+      },
+      {
+       "name": "Retsef Levi",
+       "affiliation": "MIT",
+       "presenter": false
+      },
+      {
+       "name": "Kallaya Suntornvongsagul",
+       "affiliation": "Chulalongkorn University",
+       "presenter": false
+      },
+      {
+       "name": "Jane Wang",
+       "affiliation": "MIT",
+       "presenter": true
+      },
+      {
+       "name": "Yanchong Zheng",
+       "affiliation": "MIT",
+       "presenter": false
+      }
+     ],
+     "presenter": "Jane Wang"
+    },
+    {
+     "evdid": 907,
+     "number": "3",
+     "time": "08:24-08:36",
+     "title": "Incentives and AI Advisory for Sustainable Farming: Evidence from the Field",
+     "authors": [
+      {
+       "name": "Yanchong Zheng",
+       "affiliation": "Massachusetts Institute of Technology",
+       "presenter": true
+      },
+      {
+       "name": "Yuan Shi",
+       "affiliation": "Massachusetts Institute of Technology",
+       "presenter": false
+      },
+      {
+       "name": "Alp Sungu",
+       "affiliation": "The Wharton School",
+       "presenter": false
+      },
+      {
+       "name": "Ali Aouad",
+       "affiliation": "Massachusetts Institute of Technology",
+       "presenter": false
+      }
+     ],
+     "presenter": "Yanchong Zheng"
+    },
+    {
+     "evdid": 909,
+     "number": "4",
+     "time": "08:36-08:48",
+     "title": "Can Producers be Testers? A Peer-to-Peer Testing Framework for Milk Cooperatives",
+     "authors": [
+      {
+       "name": "Sameer Mehta",
+       "affiliation": "Rotterdam School of Management, Erasmus University Rotterdam",
+       "presenter": false
+      },
+      {
+       "name": "Liying Mu",
+       "affiliation": "University of Delaware",
+       "presenter": true
+      },
+      {
+       "name": "Milind Dawande",
+       "affiliation": "The University of Texas at Dallas",
+       "presenter": false
+      },
+      {
+       "name": "Vijay Mookerjee",
+       "affiliation": "University of Texas at Dallas",
+       "presenter": false
+      }
+     ],
+     "presenter": "Liying Mu"
+    },
+    {
+     "evdid": 3350,
+     "number": "6",
+     "time": "09:00-09:12",
+     "title": "Can Conversational AI Change Smallholder Farming Practices? Experimental Evidence from the Philippines and India",
+     "authors": [
+      {
+       "name": "Niyazi Taneri",
+       "affiliation": "University of Cambridge",
+       "presenter": true
+      },
+      {
+       "name": "Ali Aouad",
+       "affiliation": "MIT",
+       "presenter": false
+      },
+      {
+       "name": "Alp Sungu",
+       "affiliation": "Wharton",
+       "presenter": false
+      },
+      {
+       "name": "Canberk Ucel",
+       "affiliation": "ESSEC Business School",
+       "presenter": false
+      }
+     ],
+     "presenter": "Niyazi Taneri"
+    }
+   ]
+  },
+  {
+   "evt": 11,
+   "code": "MA21",
+   "title": "Stochastic Modeling and Related Applications",
+   "type": "Invited Session",
+   "track": "Decision Analysis Society",
+   "room": "Moscone South-159 (Upper Mezz)",
+   "time": "8:00 AM - 9:15 AM",
+   "day": "Monday",
+   "date": "November 2",
+   "start": "08:00",
+   "end": "09:15",
+   "chairs": [
+    "Zhengli Wang"
+   ],
+   "panelists": [],
+   "moderators": [],
+   "fields": {
+    "Session Title": "Stochastic Modeling and Related Applications",
+    "Session Type": "Invited Session",
+    "Topic": "Decision Analysis Society",
+    "Co-Topic 1": "Decision Analysis Society",
+    "Co-Topic 2": "Decision Analysis Society",
+    "Room": "Moscone South-159 (Upper Mezz)",
+    "Session Chair 1": "Zhengli Wang"
+   },
+   "url": "https://submissions.mirasmart.com/InformsAnnual2026/Itinerary/EventDetail.aspx?evt=11",
+   "talks": [
+    {
+     "evdid": 40,
+     "number": "1",
+     "time": "08:00-08:15",
+     "title": "Analysis and Improvement of Eviction Enforcement",
+     "authors": [
+      {
+       "name": "Baris Ata",
+       "affiliation": "University of Chicago, Booth School of Business",
+       "presenter": false
+      },
+      {
+       "name": "Yuwei Zhou",
+       "affiliation": "Indiana University",
+       "presenter": true
+      }
+     ],
+     "presenter": "Yuwei Zhou"
+    },
+    {
+     "evdid": 41,
+     "number": "2",
+     "time": "08:15-08:30",
+     "title": "Value of Sparse Structures in Dynamic Reusable Resource Allocation with Waiting",
+     "authors": [
+      {
+       "name": "Jing Dong",
+       "affiliation": "Columbia University",
+       "presenter": false
+      },
+      {
+       "name": "Yue Hu",
+       "affiliation": "Stanford University",
+       "presenter": true
+      },
+      {
+       "name": "Shixin Wang",
+       "affiliation": "Georgia Institute of Technology",
+       "presenter": false
+      }
+     ],
+     "presenter": "Yue Hu"
+    },
+    {
+     "evdid": 42,
+     "number": "3",
+     "time": "08:30-08:45",
+     "title": "Dynamic Admission and Matching with Reusable Resources",
+     "authors": [
+      {
+       "name": "Xu Sun",
+       "affiliation": "Miami Herbert Business School",
+       "presenter": true
+      },
+      {
+       "name": "Mu Du",
+       "affiliation": "Dalian University of Technology",
+       "presenter": false
+      },
+      {
+       "name": "Jiuhong Wang",
+       "affiliation": "Dalian University of Technology",
+       "presenter": false
+      }
+     ],
+     "presenter": "Xu Sun"
+    },
+    {
+     "evdid": 43,
+     "number": "4",
+     "time": "08:45-09:00",
+     "title": "Optimal drift control of a two-sided reflected Brownian motion under an ergodic risk-sensitive cost criterion",
+     "authors": [
+      {
+       "name": "Nicola Sassone",
+       "affiliation": "Department of Computational Applied Mathematics and Operations Research, Rice University",
+       "presenter": true
+      },
+      {
+       "name": "Guodong Pang",
+       "affiliation": "Department of Computational Applied Mathematics and Operations Research, Rice University",
+       "presenter": false
+      }
+     ],
+     "presenter": "Nicola Sassone"
+    },
+    {
+     "evdid": 3269,
+     "number": "5",
+     "time": "09:00-09:15",
+     "title": "On reference-regulated multiperiod mean-variance portfolio optimization in high dimensions",
+     "authors": [
+      {
+       "name": "Yutao Deng",
+       "affiliation": "The University of Hong Kong",
+       "presenter": true
+      },
+      {
+       "name": "Jianjun Gao",
+       "affiliation": "Shanghai University of Finance and Economics",
+       "presenter": false
+      },
+      {
+       "name": "Weichen Wang",
+       "affiliation": "The University of Hong Kong",
+       "presenter": false
+      }
+     ],
+     "presenter": "Yutao Deng"
+    }
+   ]
+  },
+  {
+   "evt": 313,
+   "code": "MA30",
+   "title": "Advances in Models and Algorithms for Learning and Decision-Making",
+   "type": "Invited Session",
+   "track": "OPT: Optimization Under Uncertainty",
+   "room": "Moscone South-208 (Level 2)",
+   "time": "8:00 AM - 9:15 AM",
+   "day": "Monday",
+   "date": "November 2",
+   "start": "08:00",
+   "end": "09:15",
+   "chairs": [
+    "Tianyu Wang"
+   ],
+   "panelists": [],
+   "moderators": [],
+   "fields": {
+    "Session Title": "Advances in Models and Algorithms for Learning and Decision-Making",
+    "Session Type": "Invited Session",
+    "Topic": "OPT: Optimization Under Uncertainty",
+    "Co-Topic 1": "OPT: Optimization Under Uncertainty",
+    "Co-Topic 2": "OPT: Optimization Under Uncertainty",
+    "Room": "Moscone South-208 (Level 2)",
+    "Session Chair 1": "Tianyu Wang"
+   },
+   "url": "https://submissions.mirasmart.com/InformsAnnual2026/Itinerary/EventDetail.aspx?evt=313",
+   "talks": [
+    {
+     "evdid": 1397,
+     "number": "1",
+     "time": "08:00-08:15",
+     "title": "Optimal Spectral Design with Prior Information",
+     "authors": [
+      {
+       "name": "Weijun Xie",
+       "affiliation": "Georgia Institute of Technology",
+       "presenter": true
+      },
+      {
+       "name": "Anton Kleywegt",
+       "affiliation": "ISyE Georgia Tech",
+       "presenter": false
+      },
+      {
+       "name": "Johannes Milz",
+       "affiliation": "Georgia Institute of Technology",
+       "presenter": false
+      },
+      {
+       "name": "Mohit Singh",
+       "affiliation": "Georgia Institute of Technology",
+       "presenter": false
+      }
+     ],
+     "presenter": "Weijun Xie"
+    },
+    {
+     "evdid": 1398,
+     "number": "2",
+     "time": "08:15-08:30",
+     "title": "A Hierarchy of Policy Learning Problems",
+     "authors": [
+      {
+       "name": "Hamsa Bastani",
+       "affiliation": "Wharton School",
+       "presenter": false
+      },
+      {
+       "name": "Osbert Bastani",
+       "affiliation": "University of Pennsylvania",
+       "presenter": true
+      },
+      {
+       "name": "Shihan Chen",
+       "affiliation": "University of Pennsylvania",
+       "presenter": false
+      }
+     ],
+     "presenter": "Osbert Bastani"
+    },
+    {
+     "evdid": 1399,
+     "number": "3",
+     "time": "08:30-08:45",
+     "title": "Adaptive Discovery of Watermarks in Human-Modified LLM Texts",
+     "authors": [
+      {
+       "name": "Jose Blanchet",
+       "affiliation": "Stanford University",
+       "presenter": false
+      },
+      {
+       "name": "T. Tony Cai",
+       "affiliation": "University of Pennsylvania",
+       "presenter": false
+      },
+      {
+       "name": "Xiang Li",
+       "affiliation": "University of Pennsylvania",
+       "presenter": false
+      },
+      {
+       "name": "Hao Liu",
+       "affiliation": "Stanford University",
+       "presenter": true
+      },
+      {
+       "name": "Qi Long",
+       "affiliation": "University of Pennsylvania",
+       "presenter": false
+      },
+      {
+       "name": "Weijie Su",
+       "affiliation": "University of Pennsylvania",
+       "presenter": false
+      }
+     ],
+     "presenter": "Ha..."
+    },
+    {
+     "evdid": 1400,
+     "number": "4",
+     "time": "08:45-09:00",
+     "title": "Decision-Focused On-Policy Learning for Contextual Linear Optimization with Partial Feedback",
+     "authors": [
+      {
+       "name": "Wyame Benslimane",
+       "affiliation": "University of California, Berkeley",
+       "presenter": true
+      },
+      {
+       "name": "Tinghan Ye",
+       "affiliation": "Georgia Institute of Technology",
+       "presenter": false
+      },
+      {
+       "name": "Pascal Van Hentenryck",
+       "affiliation": "Georgia Institute of Technology",
+       "presenter": false
+      },
+      {
+       "name": "Paul Grigas",
+       "affiliation": "University of California, Berkeley",
+       "presenter": false
+      }
+     ],
+     "presenter": "Wyame Benslimane"
+    },
+    {
+     "evdid": 1401,
+     "number": "5",
+     "time": "09:00-09:15",
+     "title": "Achieving First-order Statistical Improvements in Data-Driven Optimization",
+     "authors": [
+      {
+       "name": "Tianyu Wang",
+       "affiliation": "Harvard University",
+       "presenter": true
+      },
+      {
+       "name": "Henry Lam",
+       "affiliation": "Columbia University",
+       "presenter": false
+      }
+     ],
+     "presenter": "Tianyu Wang"
+    }
+   ]
+  },
+  {
+   "evt": 219,
+   "code": "MB67",
+   "title": "wORms Panel 1 - Women Shaping the Future of OR/MS",
+   "type": "Panel Session",
+   "track": "Women in OR/MS (WORMS)",
+   "room": "Marriott Marquis-Sierra B (5th Floor)",
+   "time": "11:00 AM - 12:15 PM",
+   "day": "Monday",
+   "date": "November 2",
+   "start": "11:00",
+   "end": "12:15",
+   "chairs": [
+    "Afrooz Moatari-Kazerouni"
+   ],
+   "panelists": [],
+   "moderators": [
+    "Irem Sengul Orgut"
+   ],
+   "fields": {
+    "Session Title": "wORms Panel 1 - Women Shaping the Future of OR/MS",
+    "Session Type": "Panel Session",
+    "Topic": "Women in OR/MS (WORMS)",
+    "Co-Topic 1": "Women in OR/MS (WORMS)",
+    "Co-Topic 2": "Women in OR/MS (WORMS)",
+    "Room": "Marriott Marquis-Sierra B (5th Floor)",
+    "Session Chair 2": "Afrooz Moatari-Kazerouni",
+    "Moderator": "Irem Sengul Orgut"
+   },
+   "url": "https://submissions.mirasmart.com/InformsAnnual2026/Itinerary/EventDetail.aspx?evt=219",
+   "talks": [
+    {
+     "evdid": 976,
+     "number": "",
+     "time": "",
+     "title": "Moderator Panelist",
+     "authors": [
+      {
+       "name": "Irem Sengul Orgut",
+       "affiliation": "Loyola University Chicago",
+       "presenter": true
+      }
+     ],
+     "presenter": "Irem Sengul Orgut"
+    },
+    {
+     "evdid": 977,
+     "number": "",
+     "time": "",
+     "title": "Moderator Panelist",
+     "authors": [
+      {
+       "name": "Afrooz Moatari-Kazerouni",
+       "affiliation": "Widener University",
+       "presenter": true
+      }
+     ],
+     "presenter": "Afrooz Moatari-Kazerouni"
+    },
+    {
+     "evdid": 978,
+     "number": "",
+     "time": "",
+     "title": "Panelist",
+     "authors": [
+      {
+       "name": "Margaret Brandeau",
+       "affiliation": "Stanford University",
+       "presenter": true
+      }
+     ],
+     "presenter": "Margaret Brandeau"
+    },
+    {
+     "evdid": 979,
+     "number": "",
+     "time": "",
+     "title": "Panelist",
+     "authors": [
+      {
+       "name": "Wedad Elmaghraby",
+       "affiliation": "UMD",
+       "presenter": true
+      }
+     ],
+     "presenter": "Wedad Elmaghraby"
+    },
+    {
+     "evdid": 980,
+     "number": "",
+     "time": "",
+     "title": "Panelist",
+     "authors": [
+      {
+       "name": "Anna Nagurney",
+       "affiliation": "University of Massachusetts Amherst",
+       "presenter": true
+      }
+     ],
+     "presenter": "Anna Nagurney"
+    },
+    {
+     "evdid": 3512,
+     "number": "",
+     "time": "",
+     "title": "Panelist",
+     "authors": [
+      {
+       "name": "Radhika Kulkarni",
+       "affiliation": "VP, Advanced Analytics R&D (retired), SAS Institute Inc",
+       "presenter": true
+      }
+     ],
+     "presenter": "Radhika Kulkarni"
+    }
+   ]
+  },
+  {
+   "evt": 347,
+   "code": "MC32",
+   "title": "Learning to Optimize, Optimizing to Learn: Advances in ML x OR",
+   "type": "Invited Session",
+   "track": "Computing Society",
+   "room": "Moscone South-210 (Level 2)",
+   "time": "1:15 PM - 2:30 PM",
+   "day": "Monday",
+   "date": "November 2",
+   "start": "13:15",
+   "end": "14:30",
+   "chairs": [
+    "Zixuan Feng",
+    "Aleksandr Kazachkov"
+   ],
+   "panelists": [],
+   "moderators": [],
+   "fields": {
+    "Session Title": "Learning to Optimize, Optimizing to Learn: Advances in ML x OR",
+    "Session Type": "Invited Session",
+    "Topic": "Computing Society",
+    "Co-Topic 1": "Computing Society",
+    "Co-Topic 2": "Computing Society",
+    "Room": "Moscone South-210 (Level 2)",
+    "Session Chair 1": "Zixuan Feng",
+    "Session Chair 2": "Aleksandr Kazachkov"
+   },
+   "url": "https://submissions.mirasmart.com/InformsAnnual2026/Itinerary/EventDetail.aspx?evt=347",
+   "talks": [
+    {
+     "evdid": 1576,
+     "number": "1",
+     "time": "13:15-13:30",
+     "title": "Machine Learning Guided Optimal Transmission Switching to Mitigate Wildfire Ignition Risk",
+     "authors": [
+      {
+       "name": "Weimin Huang",
+       "affiliation": "University of Southern California",
+       "presenter": true
+      },
+      {
+       "name": "Ryan Piansky",
+       "affiliation": "Georgia Institute of Technology",
+       "presenter": false
+      },
+      {
+       "name": "Bistra Dilkina",
+       "affiliation": "University of Southern California",
+       "presenter": false
+      },
+      {
+       "name": "Daniel Molzahn",
+       "affiliation": "Georgia Institute of Technology",
+       "presenter": false
+      }
+     ],
+     "presenter": "Weimin Huang"
+    },
+    {
+     "evdid": 1578,
+     "number": "2",
+     "time": "13:30-13:45",
+     "title": "Verifiable Algorithm Design for MILP via Generative AI",
+     "authors": [
+      {
+       "name": "Connor Lawless",
+       "affiliation": "Percepta AI",
+       "presenter": true
+      },
+      {
+       "name": "Yingxi Li",
+       "affiliation": "Stanford University",
+       "presenter": false
+      },
+      {
+       "name": "Henry Robbins",
+       "affiliation": "Stanford",
+       "presenter": false
+      },
+      {
+       "name": "Anders Wikum",
+       "affiliation": "Stanford University",
+       "presenter": false
+      },
+      {
+       "name": "Madeleine Udell",
+       "affiliation": "Stanford University",
+       "presenter": false
+      },
+      {
+       "name": "Ellen Vitercik",
+       "affiliation": "Stanford University",
+       "presenter": false
+      }
+     ],
+     "presenter": "Connor Lawless"
+    },
+    {
+     "evdid": 1579,
+     "number": "3",
+     "time": "13:45-14:00",
+     "title": "Optimization for One, Feasibility for Most: Decoupling Optimization from Feasibility in Chance-Constrained Programs",
+     "authors": [
+      {
+       "name": "Justin Dumouchelle",
+       "affiliation": "University of Calgary",
+       "presenter": true
+      },
+      {
+       "name": "Shunyu Yao",
+       "affiliation": "University of Iowa",
+       "presenter": false
+      },
+      {
+       "name": "Beste Basciftci",
+       "affiliation": "University of Iowa",
+       "presenter": false
+      },
+      {
+       "name": "Thiago Serra",
+       "affiliation": "University of Iowa",
+       "presenter": false
+      }
+     ],
+     "presenter": "Justin Dumouchelle"
+    },
+    {
+     "evdid": 1580,
+     "number": "4",
+     "time": "14:00-14:15",
+     "title": "Column Generation for Causal Discovery via Difference of Submodular Optimization: Inexact and Exact Approaches",
+     "authors": [
+      {
+       "name": "Yiran Yang",
+       "affiliation": "The Chinese University of Hong Kong, Shenzhen",
+       "presenter": false
+      },
+      {
+       "name": "Rui Chen",
+       "affiliation": "The Chinese University of Hong Kong, Shenzhen",
+       "presenter": true
+      }
+     ],
+     "presenter": "Rui Chen"
+    },
+    {
+     "evdid": 2363,
+     "number": "5",
+     "time": "14:15-14:30",
+     "title": "Learning-Augmented Partitioning for Accelerating Global Optimization of Nonconvex QCQPs",
+     "authors": [
+      {
+       "name": "Dekang Meng",
+       "affiliation": "Georgia Institute of Technology",
+       "presenter": true
+      },
+      {
+       "name": "Harsha Nagarajan",
+       "affiliation": "Los Alamos National Laboratory",
+       "presenter": false
+      },
+      {
+       "name": "Mathieu Tanneau",
+       "affiliation": "Georgia Institute of Technology",
+       "presenter": false
+      },
+      {
+       "name": "Russell Bent",
+       "affiliation": "Los Alamos National Laboratory",
+       "presenter": false
+      },
+      {
+       "name": "Pascal Van Hentenryck",
+       "affiliation": "Georgia Institute of Technology",
+       "presenter": false
+      }
+     ],
+     "presenter": "Dekang Meng"
+    }
+   ]
+  },
+  {
+   "evt": 338,
+   "code": "MC53",
+   "title": "Innovations in Election Administration",
+   "type": "Invited Session",
+   "track": "Public and Societal Operations Research",
+   "room": "Moscone South-21 (Exhibit Level)",
+   "time": "1:15 PM - 2:30 PM",
+   "day": "Monday",
+   "date": "November 2",
+   "start": "13:15",
+   "end": "14:30",
+   "chairs": [
+    "Bradley Sturt"
+   ],
+   "panelists": [],
+   "moderators": [],
+   "fields": {
+    "Session Title": "Innovations in Election Administration",
+    "Session Type": "Invited Session",
+    "Topic": "Public and Societal Operations Research",
+    "Co-Topic 1": "Public and Societal Operations Research",
+    "Co-Topic 2": "Public and Societal Operations Research",
+    "Room": "Moscone South-21 (Exhibit Level)",
+    "Session Chair 1": "Bradley Sturt"
+   },
+   "url": "https://submissions.mirasmart.com/InformsAnnual2026/Itinerary/EventDetail.aspx?evt=338",
+   "talks": [
+    {
+     "evdid": 1536,
+     "number": "1",
+     "time": "13:15-13:30",
+     "title": "Optimal Consolidation of Polling Locations",
+     "authors": [
+      {
+       "name": "Laura Albert",
+       "affiliation": "University of Wisconsin-Madison",
+       "presenter": true
+      }
+     ],
+     "presenter": "Laura Albert"
+    },
+    {
+     "evdid": 1537,
+     "number": "2",
+     "time": "13:30-13:45",
+     "title": "Ballot Design and Electoral Outcomes: The Role of Candidate Order and Party Affiliation",
+     "authors": [
+      {
+       "name": "Alessandro Arlotto",
+       "affiliation": "Duke University",
+       "presenter": true
+      },
+      {
+       "name": "Alexandre Belloni",
+       "affiliation": "Duke University and Amazon",
+       "presenter": false
+      },
+      {
+       "name": "Fei Fang",
+       "affiliation": "Yale University",
+       "presenter": false
+      },
+      {
+       "name": "Sasa Pekec",
+       "affiliation": "Fuqua School of Business,Duke University",
+       "presenter": false
+      }
+     ],
+     "presenter": "Alessandro Arlotto"
+    },
+    {
+     "evdid": 1538,
+     "number": "3",
+     "time": "13:45-14:00",
+     "title": "Auditing Complex Ranked-Choice Elections",
+     "authors": [
+      {
+       "name": "Michelle Blom",
+       "affiliation": "Monash University",
+       "presenter": true
+      }
+     ],
+     "presenter": "Michelle Blom"
+    },
+    {
+     "evdid": 1539,
+     "number": "4",
+     "time": "14:00-14:15",
+     "title": "Graph Automorphisms and Election Security",
+     "authors": [
+      {
+       "name": "Bradley Sturt",
+       "affiliation": "University of Illinois Chicago",
+       "presenter": true
+      },
+      {
+       "name": "Braden Crimmins",
+       "affiliation": "University of Michigan",
+       "presenter": false
+      },
+      {
+       "name": "Alex Halderman",
+       "affiliation": "University of Michigan",
+       "presenter": false
+      }
+     ],
+     "presenter": "Bradley Sturt"
+    },
+    {
+     "evdid": 6432,
+     "number": "5",
+     "time": "14:15-14:30",
+     "title": "Forecasting Instant Runoff Voting from Polls",
+     "authors": [
+      {
+       "name": "David Liu",
+       "affiliation": "Cornell University",
+       "presenter": true
+      },
+      {
+       "name": "Kiran Tomlinson",
+       "affiliation": "Cornell University",
+       "presenter": false
+      },
+      {
+       "name": "Jon Kleinberg",
+       "affiliation": "Cornell University",
+       "presenter": false
+      },
+      {
+       "name": "Johan Ugander",
+       "affiliation": "Stanford University",
+       "presenter": false
+      }
+     ],
+     "presenter": "David Liu"
+    }
+   ]
+  },
+  {
+   "evt": 84,
+   "code": "TA03",
+   "title": "Technology and Future of Work",
+   "type": "Invited Session",
+   "track": "MSOM: Service Operations",
+   "room": "Moscone South-62 (Lower Mezz)",
+   "time": "8:00 AM - 9:15 AM",
+   "day": "Tuesday",
+   "date": "November 3",
+   "start": "08:00",
+   "end": "09:15",
+   "chairs": [
+    "Qiuping Yu"
+   ],
+   "panelists": [],
+   "moderators": [],
+   "fields": {
+    "Session Title": "Technology and Future of Work",
+    "Session Type": "Invited Session",
+    "Topic": "MSOM: Service Operations",
+    "Co-Topic 1": "MSOM: Service Operations",
+    "Co-Topic 2": "MSOM: Service Operations",
+    "Room": "Moscone South-62 (Lower Mezz)",
+    "Session Chair 1": "Qiuping Yu"
+   },
+   "url": "https://submissions.mirasmart.com/InformsAnnual2026/Itinerary/EventDetail.aspx?evt=84",
+   "talks": [
+    {
+     "evdid": 361,
+     "number": "1",
+     "time": "08:00-08:15",
+     "title": "Transaction Facilitation in Digital Platforms: An Empirical Investigation of the Impact of the Platform Payment Integration",
+     "authors": [
+      {
+       "name": "Zhenming Shi",
+       "affiliation": "Nanyang Technological University",
+       "presenter": true
+      },
+      {
+       "name": "Vivek Choudhary",
+       "affiliation": "Nanyang Technological University",
+       "presenter": false
+      },
+      {
+       "name": "Serguei Netessine",
+       "affiliation": "The Wharton School",
+       "presenter": false
+      }
+     ],
+     "presenter": "Zhenming Shi"
+    },
+    {
+     "evdid": 362,
+     "number": "2",
+     "time": "08:15-08:30",
+     "title": "The Queue Is in the Eye of the Beholder: An Empirical Study of Join-or-Balk Decisions",
+     "authors": [
+      {
+       "name": "Enzo Bergamo",
+       "affiliation": "The Wharton School, University of Pennsylvania",
+       "presenter": true
+      },
+      {
+       "name": "Gad Allon",
+       "affiliation": "The Wharton School, University of Pennsylvania",
+       "presenter": false
+      },
+      {
+       "name": "Kenneth Moon",
+       "affiliation": "Cornell SC Johnson College of Business, Cornell University",
+       "presenter": false
+      }
+     ],
+     "presenter": "Enzo Bergamo"
+    },
+    {
+     "evdid": 363,
+     "number": "3",
+     "time": "08:30-08:45",
+     "title": "Designing Quality Signals in Digital Service Platforms: Evidence from a Ride-Sharing Field Experiment",
+     "authors": [
+      {
+       "name": "Sixing Hu",
+       "affiliation": "The Chinese University of Hong Kong, Shenzhen",
+       "presenter": true
+      },
+      {
+       "name": "Yiming Zhang",
+       "affiliation": "The Chinese University of Hong Kong, Shenzhen",
+       "presenter": false
+      },
+      {
+       "name": "Qiuping Yu",
+       "affiliation": "Georgetown University",
+       "presenter": false
+      },
+      {
+       "name": "Yunan Ji",
+       "affiliation": "Georgetown University",
+       "presenter": false
+      }
+     ],
+     "presenter": "Sixing Hu"
+    },
+    {
+     "evdid": 364,
+     "number": "4",
+     "time": "08:45-09:00",
+     "title": "Bottomless Delegation: Non-Human Errors, Agentic Depth, and the Value of AI-Free Provenance",
+     "authors": [
+      {
+       "name": "Meishu Yin",
+       "affiliation": "University of Texas at Austin",
+       "presenter": false
+      },
+      {
+       "name": "Ronghuo Zheng",
+       "affiliation": "University of Texas at Austin",
+       "presenter": true
+      },
+      {
+       "name": "Tinglong Dai",
+       "affiliation": "Johns Hopkins University",
+       "presenter": false
+      }
+     ],
+     "presenter": "Ronghuo Zheng"
+    },
+    {
+     "evdid": 960,
+     "number": "5",
+     "time": "09:00-09:15",
+     "title": "How Online Labor Matches Succeed or Fail: Evidence from Large-Scale Client–Freelancer Conversations",
+     "authors": [
+      {
+       "name": "Wedad Elmaghraby",
+       "affiliation": "UMD",
+       "presenter": true
+      },
+      {
+       "name": "Jiannan Xu",
+       "affiliation": "Robert H. Smith School of Business, University of Maryland",
+       "presenter": false
+      },
+      {
+       "name": "Ashish Kabra",
+       "affiliation": "Nanyang Technological University, Singapore",
+       "presenter": false
+      },
+      {
+       "name": "Kunpeng Zhang",
+       "affiliation": "University of Maryland Robert H. Smith School of Business",
+       "presenter": false
+      }
+     ],
+     "presenter": "Wedad Elmaghraby"
+    }
+   ]
+  },
+  {
+   "evt": 278,
+   "code": "TA39",
+   "title": "Quantitative Frameworks for AI Risk Management",
+   "type": "Invited Session",
+   "track": "Artificial Intelligence",
+   "room": "Moscone South-301 (Level 3)",
+   "time": "8:00 AM - 9:15 AM",
+   "day": "Tuesday",
+   "date": "November 3",
+   "start": "08:00",
+   "end": "09:15",
+   "chairs": [
+    "Agni Orfanoudaki",
+    "Claudio Sánchez Perez de Amézaga"
+   ],
+   "panelists": [],
+   "moderators": [],
+   "fields": {
+    "Session Title": "Quantitative Frameworks for AI Risk Management",
+    "Session Type": "Invited Session",
+    "Topic": "Artificial Intelligence",
+    "Co-Topic 1": "Artificial Intelligence",
+    "Co-Topic 2": "Artificial Intelligence",
+    "Room": "Moscone South-301 (Level 3)",
+    "Session Chair 1": "Agni Orfanoudaki",
+    "Session Chair 2": "Claudio Sánchez Perez de Amézaga"
+   },
+   "url": "https://submissions.mirasmart.com/InformsAnnual2026/Itinerary/EventDetail.aspx?evt=278",
+   "talks": [
+    {
+     "evdid": 1233,
+     "number": "1",
+     "time": "08:00-08:15",
+     "title": "Dynamic AI Insurance under Partial Observation and Model Drift",
+     "authors": [
+      {
+       "name": "Claudio Sánchez Perez de Amézaga",
+       "affiliation": "IESE Business School",
+       "presenter": true
+      },
+      {
+       "name": "Agni Orfanoudaki",
+       "affiliation": "Oxford University",
+       "presenter": false
+      },
+      {
+       "name": "Mihalis Markakis",
+       "affiliation": "IESE Business School",
+       "presenter": false
+      }
+     ],
+     "presenter": "Claudio Sánchez Perez de Amézaga"
+    },
+    {
+     "evdid": 1234,
+     "number": "2",
+     "time": "08:15-08:30",
+     "title": "Algorithmic Insurance",
+     "authors": [
+      {
+       "name": "Agni Orfanoudaki",
+       "affiliation": "Oxford University",
+       "presenter": true
+      },
+      {
+       "name": "Dimitris Bertsimas",
+       "affiliation": "Massachusetts Institute of Technology",
+       "presenter": false
+      }
+     ],
+     "presenter": "Agni Orfanoudaki"
+    },
+    {
+     "evdid": 1235,
+     "number": "3",
+     "time": "08:30-08:45",
+     "title": "The AI Layoff Trap",
+     "authors": [
+      {
+       "name": "Gerry Tsoukalas",
+       "affiliation": "Boston University",
+       "presenter": true
+      },
+      {
+       "name": "Brett Falk",
+       "affiliation": "University of Pennsylvania",
+       "presenter": false
+      }
+     ],
+     "presenter": "Gerry Tsoukalas"
+    },
+    {
+     "evdid": 1237,
+     "number": "4",
+     "time": "08:45-09:00",
+     "title": "Beyond IVF Success Scores: How Bias and Uncertainty Shape IVF Decisions",
+     "authors": [
+      {
+       "name": "Bogdana Jelić",
+       "affiliation": "University of Oxford",
+       "presenter": true
+      },
+      {
+       "name": "Agni Orfanoudaki",
+       "affiliation": "Oxford University",
+       "presenter": false
+      },
+      {
+       "name": "Holly Wiberg",
+       "affiliation": "Carnegie Mellon University",
+       "presenter": false
+      }
+     ],
+     "presenter": "Bogdana Jelić"
+    },
+    {
+     "evdid": 3088,
+     "number": "5",
+     "time": "09:00-09:15",
+     "title": "Should Humans be in the Loop? Human-AI Collaboration Paradox and Automation Cliffs",
+     "authors": [
+      {
+       "name": "Shixiang Woody Zhu",
+       "affiliation": "Carnegie Mellon University",
+       "presenter": true
+      }
+     ],
+     "presenter": "Shixiang Woody Zhu"
+    }
+   ]
+  },
+  {
+   "evt": 117,
+   "code": "TA65",
+   "title": "Blue and Red Models for Contested Logistics",
+   "type": "Invited Session",
+   "track": "Military and Security Society",
+   "room": "Moscone South-12 (Exhibit Level)",
+   "time": "8:00 AM - 9:15 AM",
+   "day": "Tuesday",
+   "date": "November 3",
+   "start": "08:00",
+   "end": "09:15",
+   "chairs": [
+    "Alexandra Newman",
+    "Daniel Bienstock"
+   ],
+   "panelists": [],
+   "moderators": [],
+   "fields": {
+    "Session Title": "Blue and Red Models for Contested Logistics",
+    "Session Type": "Invited Session",
+    "Topic": "Military and Security Society",
+    "Co-Topic 1": "Military and Security Society",
+    "Co-Topic 2": "Military and Security Society",
+    "Room": "Moscone South-12 (Exhibit Level)",
+    "Session Chair 1": "Alexandra Newman",
+    "Session Chair 2": "Daniel Bienstock"
+   },
+   "url": "https://submissions.mirasmart.com/InformsAnnual2026/Itinerary/EventDetail.aspx?evt=117",
+   "talks": [
+    {
+     "evdid": 514,
+     "number": "1",
+     "time": "08:00-08:15",
+     "title": "Solving large-scale military logistics planning problems",
+     "authors": [
+      {
+       "name": "Jeff Linderoth",
+       "affiliation": "University of Wisconsin-Madison",
+       "presenter": true
+      }
+     ],
+     "presenter": "Jeff Linderoth"
+    },
+    {
+     "evdid": 515,
+     "number": "2",
+     "time": "08:15-08:30",
+     "title": "A Route-Based MIP Planning Tool for Military Logistics Operations",
+     "authors": [
+      {
+       "name": "Soochan Kim",
+       "affiliation": "University of Southern California",
+       "presenter": true
+      },
+      {
+       "name": "Johannes Royset",
+       "affiliation": "University of Southern California",
+       "presenter": false
+      }
+     ],
+     "presenter": "Soochan Kim"
+    },
+    {
+     "evdid": 516,
+     "number": "3",
+     "time": "08:30-08:45",
+     "title": "Identifying Risk in Military Logistics Using Red Motion",
+     "authors": [
+      {
+       "name": "Luke Messer",
+       "affiliation": "Colorado School of Mines",
+       "presenter": true
+      },
+      {
+       "name": "Brandon Werling",
+       "affiliation": "Colorado School of Mines",
+       "presenter": false
+      }
+     ],
+     "presenter": "Luke Messer"
+    },
+    {
+     "evdid": 517,
+     "number": "4",
+     "time": "08:45-09:00",
+     "title": "Expediting Solutions in Contested Logistics",
+     "authors": [
+      {
+       "name": "Justin Kilb",
+       "affiliation": "Colorado School of Mines",
+       "presenter": true
+      }
+     ],
+     "presenter": "Justin Kilb"
+    },
+    {
+     "evdid": 523,
+     "number": "5",
+     "time": "09:00-09:15",
+     "title": "De-Risking Solutions to Optimization Problems",
+     "authors": [
+      {
+       "name": "Blake Sisson",
+       "affiliation": "Columbia University",
+       "presenter": true
+      },
+      {
+       "name": "Daniel Bienstock",
+       "affiliation": "Columbia University",
+       "presenter": false
+      }
+     ],
+     "presenter": "Blake Sisson"
+    }
+   ]
+  },
+  {
+   "evt": 383,
+   "code": "TC32",
+   "title": "ML and AI Applications in Operations",
+   "type": "Invited Session",
+   "track": "Computing Society",
+   "room": "Moscone South-210 (Level 2)",
+   "time": "1:15 PM - 2:30 PM",
+   "day": "Tuesday",
+   "date": "November 3",
+   "start": "13:15",
+   "end": "14:30",
+   "chairs": [
+    "Zezhen He",
+    "Yaron Shaposhnik"
+   ],
+   "panelists": [],
+   "moderators": [],
+   "fields": {
+    "Session Title": "ML and AI Applications in Operations",
+    "Session Type": "Invited Session",
+    "Topic": "Computing Society",
+    "Co-Topic 1": "Computing Society",
+    "Co-Topic 2": "Computing Society",
+    "Room": "Moscone South-210 (Level 2)",
+    "Session Chair 1": "Zezhen He",
+    "Session Chair 2": "Yaron Shaposhnik"
+   },
+   "url": "https://submissions.mirasmart.com/InformsAnnual2026/Itinerary/EventDetail.aspx?evt=383",
+   "talks": [
+    {
+     "evdid": 1736,
+     "number": "1",
+     "time": "13:15-13:30",
+     "title": "Robust Restless Multi-Armed Bandit for Data Center Flexibility Services Through Virtual Machine Scheduling",
+     "authors": [
+      {
+       "name": "Yifu Ding",
+       "affiliation": "Massachusetts Institute of Technology",
+       "presenter": true
+      },
+      {
+       "name": "Thomas Magnanti",
+       "affiliation": "MIT",
+       "presenter": false
+      }
+     ],
+     "presenter": "Yifu Ding"
+    },
+    {
+     "evdid": 1737,
+     "number": "2",
+     "time": "13:30-13:45",
+     "title": "Management Practices and Vulnerability Exposure in OSS",
+     "authors": [
+      {
+       "name": "Yuetong Xu",
+       "affiliation": "MIT",
+       "presenter": true
+      },
+      {
+       "name": "Retsef Levi",
+       "affiliation": "MIT",
+       "presenter": false
+      },
+      {
+       "name": "Raphael Yahalom",
+       "affiliation": "MIT",
+       "presenter": false
+      }
+     ],
+     "presenter": "Yuetong Xu"
+    },
+    {
+     "evdid": 1738,
+     "number": "3",
+     "time": "13:45-14:00",
+     "title": "NestedSimPy: A Simulation Framework for Benchmarking Machine Learning Models in Operations",
+     "authors": [
+      {
+       "name": "Yaron Shaposhnik",
+       "affiliation": "University of Rochester",
+       "presenter": false
+      },
+      {
+       "name": "Hongyu Wang",
+       "affiliation": "University of Rochester",
+       "presenter": true
+      }
+     ],
+     "presenter": "Hongyu Wang"
+    },
+    {
+     "evdid": 1739,
+     "number": "4",
+     "time": "14:00-14:15",
+     "title": "Dynamic Prediction of Waiting Time Intervals: Application to Cancer Care Facilities",
+     "authors": [
+      {
+       "name": "Yaron Shaposhnik",
+       "affiliation": "University of Rochester",
+       "presenter": true
+      }
+     ],
+     "presenter": "Yaron Shaposhnik"
+    },
+    {
+     "evdid": 2523,
+     "number": "5",
+     "time": "14:15-14:30",
+     "title": "Experimentation without Experiments: Simulated LLM Markets via DAGs",
+     "authors": [
+      {
+       "name": "Yixiang Xu",
+       "affiliation": "University of Cambridge",
+       "presenter": true
+      },
+      {
+       "name": "Park Sinchaisri",
+       "affiliation": "University of California, Berkeley",
+       "presenter": false
+      },
+      {
+       "name": "Xinwei Chen",
+       "affiliation": "The University of Tulsa",
+       "presenter": false
+      },
+      {
+       "name": "xiexin liu",
+       "affiliation": "The Pennsylvania State University",
+       "presenter": false
+      }
+     ],
+     "presenter": "Yixiang Xu"
+    }
+   ]
+  },
+  {
+   "evt": 268,
+   "code": "TC45",
+   "title": "Dynamic Allocation and Mechanism Design under Uncertainty",
+   "type": "Invited Session",
+   "track": "Revenue Management Section",
+   "room": "Moscone South-307 (Level 3)",
+   "time": "1:15 PM - 2:30 PM",
+   "day": "Tuesday",
+   "date": "November 3",
+   "start": "13:15",
+   "end": "14:30",
+   "chairs": [
+    "Shixin Wang"
+   ],
+   "panelists": [],
+   "moderators": [],
+   "fields": {
+    "Session Title": "Dynamic Allocation and Mechanism Design under Uncertainty",
+    "Session Type": "Invited Session",
+    "Topic": "Revenue Management Section",
+    "Co-Topic 1": "Revenue Management Section",
+    "Co-Topic 2": "Revenue Management Section",
+    "Room": "Moscone South-307 (Level 3)",
+    "Session Chair 1": "Shixin Wang"
+   },
+   "url": "https://submissions.mirasmart.com/InformsAnnual2026/Itinerary/EventDetail.aspx?evt=268",
+   "talks": [
+    {
+     "evdid": 1179,
+     "number": "1",
+     "time": "13:15-13:33",
+     "title": "Reoptimization in the Dynamic and Stochastic Knapsack Problem: From Near-Optimality to Distributional Equivalence",
+     "authors": [
+      {
+       "name": "Alessandro Arlotto",
+       "affiliation": "Duke University",
+       "presenter": false
+      },
+      {
+       "name": "Yun-Tung Kuo",
+       "affiliation": "Duke University",
+       "presenter": true
+      },
+      {
+       "name": "Xinchang Xie",
+       "affiliation": "UPS",
+       "presenter": false
+      }
+     ],
+     "presenter": "Yun-Tung Kuo"
+    },
+    {
+     "evdid": 1180,
+     "number": "2",
+     "time": "13:33-13:51",
+     "title": "Signaling in Data Markets via Free Samples",
+     "authors": [
+      {
+       "name": "Nivasini Ananthakrishnan",
+       "affiliation": "University of California, Berkeley",
+       "presenter": false
+      },
+      {
+       "name": "Alireza Fallah",
+       "affiliation": "Rice University",
+       "presenter": true
+      },
+      {
+       "name": "Michael Jordan",
+       "affiliation": "UC Berkeley",
+       "presenter": false
+      }
+     ],
+     "presenter": "Alireza Fallah"
+    },
+    {
+     "evdid": 1181,
+     "number": "3",
+     "time": "13:51-14:09",
+     "title": "Non-monetary Mechanisms for Online Resource Allocation Siddhartha Banerjee, Cornell University.",
+     "authors": [
+      {
+       "name": "Siddhartha Banerjee",
+       "affiliation": "Cornell University",
+       "presenter": true
+      }
+     ],
+     "presenter": "Siddhartha Banerjee"
+    },
+    {
+     "evdid": 1182,
+     "number": "4",
+     "time": "14:09-14:27",
+     "title": "Pricing with a Hidden Sample",
+     "authors": [
+      {
+       "name": "Zhihao Tang",
+       "affiliation": "Shanghai University of Finance and Economics",
+       "presenter": true
+      }
+     ],
+     "presenter": "Zhihao Tang"
+    }
+   ]
+  },
+  {
+   "evt": 332,
+   "code": "TD29",
+   "title": "Advances in Global Optimization: Structure-Exploiting Methods",
+   "type": "Invited Session",
+   "track": "OPT: Global Optimization",
+   "room": "Moscone South-207 (Level 2)",
+   "time": "2:45 PM - 4:00 PM",
+   "day": "Tuesday",
+   "date": "November 3",
+   "start": "14:45",
+   "end": "16:00",
+   "chairs": [
+    "Tristan Gally",
+    "Haoyun Deng"
+   ],
+   "panelists": [],
+   "moderators": [],
+   "fields": {
+    "Session Title": "Advances in Global Optimization: Structure-Exploiting Methods",
+    "Session Type": "Invited Session",
+    "Topic": "OPT: Global Optimization",
+    "Co-Topic 1": "OPT: Global Optimization",
+    "Co-Topic 2": "OPT: Global Optimization",
+    "Room": "Moscone South-207 (Level 2)",
+    "Session Chair 1": "Tristan Gally",
+    "Session Chair 2": "Haoyun Deng"
+   },
+   "url": "https://submissions.mirasmart.com/InformsAnnual2026/Itinerary/EventDetail.aspx?evt=332",
+   "talks": [
+    {
+     "evdid": 1499,
+     "number": "",
+     "time": "14:45-15:00",
+     "title": "Avoid convexifying too early: convex envelopes over nonconvex polygonal domains",
+     "authors": [
+      {
+       "name": "Jan Krause",
+       "affiliation": "University of Technology Nuremberg",
+       "presenter": true
+      },
+      {
+       "name": "Adrian Göß",
+       "affiliation": "University of Technology Nuremberg",
+       "presenter": false
+      },
+      {
+       "name": "Martina Kuchlbauer",
+       "affiliation": "University of Technology Nuremberg",
+       "presenter": false
+      },
+      {
+       "name": "Tobias Kuen",
+       "affiliation": "Fraunhofer IIS",
+       "presenter": false
+      }
+     ],
+     "presenter": "Jan Krause"
+    },
+    {
+     "evdid": 1500,
+     "number": "",
+     "time": "15:00-15:15",
+     "title": "Homogeneous Quadratically Constrained Quadratic Programming: Stronger Approximation Bounds and Exact Methods",
+     "authors": [
+      {
+       "name": "Haoyun Deng",
+       "affiliation": "Georgia Institute of Technology",
+       "presenter": true
+      },
+      {
+       "name": "Nikolaos Sahinidis",
+       "affiliation": "Georgia Tech",
+       "presenter": false
+      },
+      {
+       "name": "Weijun Xie",
+       "affiliation": "City University of Hong Kong",
+       "presenter": false
+      }
+     ],
+     "presenter": "Haoyun Deng"
+    },
+    {
+     "evdid": 1501,
+     "number": "",
+     "time": "15:15-15:30",
+     "title": "Rounding Weighted Sums of Positive Semidefinite Matrices",
+     "authors": [
+      {
+       "name": "Haeseong Yang",
+       "affiliation": "University of Pittsburgh",
+       "presenter": true
+      },
+      {
+       "name": "Jourdain Lamperski",
+       "affiliation": "University of Pittsburgh",
+       "presenter": false
+      },
+      {
+       "name": "Oleg Prokopyev",
+       "affiliation": "University of Zurich",
+       "presenter": false
+      }
+     ],
+     "presenter": "Haeseong Yang"
+    },
+    {
+     "evdid": 1502,
+     "number": "",
+     "time": "15:30-15:45",
+     "title": "Solving Sparsity Constrained PCA, Regression, and QCQP via the Spartrahedron",
+     "authors": [
+      {
+       "name": "Diego Cifuentes",
+       "affiliation": "Georgia Institute of Technology",
+       "presenter": false
+      },
+      {
+       "name": "Zhuorui Li",
+       "affiliation": "Georgia Institute of Technology",
+       "presenter": true
+      }
+     ],
+     "presenter": "Zhuorui Li"
+    },
+    {
+     "evdid": 1503,
+     "number": "",
+     "time": "15:45-16:00",
+     "title": "What's new for the global solver in FICO Xpress",
+     "authors": [
+      {
+       "name": "Tristan Gally",
+       "affiliation": "FICO",
+       "presenter": true
+      }
+     ],
+     "presenter": "Tristan Gally"
+    }
+   ]
+  },
+  {
+   "evt": 283,
+   "code": "TD30",
+   "title": "Data-driven Optimization with Context Information",
+   "type": "Invited Session",
+   "track": "OPT: Optimization Under Uncertainty",
+   "room": "Moscone South-208 (Level 2)",
+   "time": "2:45 PM - 4:00 PM",
+   "day": "Tuesday",
+   "date": "November 3",
+   "start": "14:45",
+   "end": "16:00",
+   "chairs": [
+    "Yiling Zhang"
+   ],
+   "panelists": [],
+   "moderators": [],
+   "fields": {
+    "Session Title": "Data-driven Optimization with Context Information",
+    "Session Type": "Invited Session",
+    "Topic": "OPT: Optimization Under Uncertainty",
+    "Co-Topic 1": "OPT: Optimization Under Uncertainty",
+    "Co-Topic 2": "OPT: Optimization Under Uncertainty",
+    "Room": "Moscone South-208 (Level 2)",
+    "Session Chair 1": "Yiling Zhang"
+   },
+   "url": "https://submissions.mirasmart.com/InformsAnnual2026/Itinerary/EventDetail.aspx?evt=283",
+   "talks": [
+    {
+     "evdid": 1265,
+     "number": "1",
+     "time": "14:45-15:00",
+     "title": "Ensemble Methods for Multi-source Stochastic Optimization",
+     "authors": [
+      {
+       "name": "Yanru Guo",
+       "affiliation": "University of Michigan",
+       "presenter": true
+      },
+      {
+       "name": "Ruiwei Jiang",
+       "affiliation": "University of Michigan",
+       "presenter": false
+      },
+      {
+       "name": "Siqian Shen",
+       "affiliation": "University of Michigan",
+       "presenter": false
+      }
+     ],
+     "presenter": "Yanru Guo"
+    },
+    {
+     "evdid": 1266,
+     "number": "2",
+     "time": "15:00-15:15",
+     "title": "Deep Learning-Driven Contextual Stochastic Optimization for Real-Time Order Fulfillment",
+     "authors": [
+      {
+       "name": "Tinghan Ye",
+       "affiliation": "Georgia Institute of Technology",
+       "presenter": true
+      },
+      {
+       "name": "Shuaicheng Tong",
+       "affiliation": "Georgia Institute of Technology",
+       "presenter": false
+      },
+      {
+       "name": "Changkun Guan",
+       "affiliation": "Georgia Institute of Technology",
+       "presenter": false
+      },
+      {
+       "name": "Beste Basciftci",
+       "affiliation": "Tippie College of Business, University of Iowa",
+       "presenter": false
+      },
+      {
+       "name": "Pascal Van Hentenryck",
+       "affiliation": "Georgia Institute of Technology",
+       "presenter": false
+      }
+     ],
+     "presenter": "Tinghan Ye"
+    },
+    {
+     "evdid": 1761,
+     "number": "3",
+     "time": "15:15-15:30",
+     "title": "Decision Rule Approaches for Robust Contextual Stochastic Optimization with Conditional Moment Ambiguity",
+     "authors": [
+      {
+       "name": "Liuyue Wang",
+       "affiliation": "University of Minnesota",
+       "presenter": true
+      },
+      {
+       "name": "Yiling Zhang",
+       "affiliation": "University of Minnesota",
+       "presenter": false
+      }
+     ],
+     "presenter": "Liuyue Wang"
+    },
+    {
+     "evdid": 1781,
+     "number": "4",
+     "time": "15:30-15:45",
+     "title": "Decision Aware Origin-Destination Demand Estimation with Structurally Constrained Data",
+     "authors": [
+      {
+       "name": "Xianzhe Wang",
+       "affiliation": "University of California, Davis",
+       "presenter": true
+      },
+      {
+       "name": "Yueyue Fan",
+       "affiliation": "University of California, Davis",
+       "presenter": false
+      },
+      {
+       "name": "Johannes Royset",
+       "affiliation": "University of Southern California",
+       "presenter": false
+      }
+     ],
+     "presenter": "Xianzhe Wang"
+    },
+    {
+     "evdid": 2977,
+     "number": "5",
+     "time": "15:45-16:00",
+     "title": "Approximate-Learn-Parallel Framework for Contextual Optimization",
+     "authors": [
+      {
+       "name": "Zolykha Rezaei",
+       "affiliation": "Texas Tech University",
+       "presenter": true
+      },
+      {
+       "name": "Ningji Wei",
+       "affiliation": "Texas Tech University",
+       "presenter": false
+      }
+     ],
+     "presenter": "Zolykha Rezaei"
+    }
+   ]
+  },
+  {
+   "evt": 89,
+   "code": "TE65",
+   "title": "Optimizing Underwater Search Operations",
+   "type": "Invited Session",
+   "track": "Military and Security Society",
+   "room": "Moscone South-12 (Exhibit Level)",
+   "time": "4:15 PM - 5:30 PM",
+   "day": "Tuesday",
+   "date": "November 3",
+   "start": "16:15",
+   "end": "17:30",
+   "chairs": [
+    "Anna Svirsko"
+   ],
+   "panelists": [],
+   "moderators": [],
+   "fields": {
+    "Session Title": "Optimizing Underwater Search Operations",
+    "Session Type": "Invited Session",
+    "Topic": "Military and Security Society",
+    "Co-Topic 1": "Military and Security Society",
+    "Co-Topic 2": "Military and Security Society",
+    "Room": "Moscone South-12 (Exhibit Level)",
+    "Session Chair 1": "Anna Svirsko"
+   },
+   "url": "https://submissions.mirasmart.com/InformsAnnual2026/Itinerary/EventDetail.aspx?evt=89",
+   "talks": [
+    {
+     "evdid": 383,
+     "number": "1",
+     "time": "16:15-16:30",
+     "title": "(NOT REGISTERED) Strategic Staging of Tactical Search Assets in Undersea Warfare",
+     "authors": [
+      {
+       "name": "Abigail Morgan",
+       "affiliation": "United States Naval Academy",
+       "presenter": false
+      },
+      {
+       "name": "Daphne Skipper",
+       "affiliation": "United States Naval Academy",
+       "presenter": false
+      },
+      {
+       "name": "Anna Svirsko",
+       "affiliation": "United States Naval Academy",
+       "presenter": true
+      },
+      {
+       "name": "Esra Buyuktahtakin Toy",
+       "affiliation": "Virginia Tech",
+       "presenter": false
+      }
+     ],
+     "presenter": "Anna Svirsko"
+    },
+    {
+     "evdid": 384,
+     "number": "2",
+     "time": "16:30-16:45",
+     "title": "(NOT REGISTERED) Enhancing Optimization Models for Detecting Targets in Undersea Warfare",
+     "authors": [
+      {
+       "name": "Samantha Woodworth",
+       "affiliation": "United States Naval Academy",
+       "presenter": false
+      },
+      {
+       "name": "Nathan Adelgren",
+       "affiliation": "United States Naval Academy",
+       "presenter": true
+      }
+     ],
+     "presenter": "Nathan Adelgren"
+    },
+    {
+     "evdid": 385,
+     "number": "3",
+     "time": "16:45-17:00",
+     "title": "Hybrid Learning-Optimization for Multi-Agent Bayesian Search in Naval Operations",
+     "authors": [
+      {
+       "name": "Nipun Galande",
+       "affiliation": "Virginia Tech",
+       "presenter": true
+      },
+      {
+       "name": "Esra Toy",
+       "affiliation": "Virginia Tech",
+       "presenter": false
+      },
+      {
+       "name": "Daphne Skipper",
+       "affiliation": "United States Naval Academy",
+       "presenter": false
+      },
+      {
+       "name": "Anna Svirsko",
+       "affiliation": "United States Naval Academy",
+       "presenter": false
+      }
+     ],
+     "presenter": "Nipun Galande"
+    },
+    {
+     "evdid": 386,
+     "number": "4",
+     "time": "17:00-17:15",
+     "title": "Seach Problems in Anti-Submarine Warfare",
+     "authors": [
+      {
+       "name": "Ransheng Guan",
+       "affiliation": "University of Wisconsin-Madison",
+       "presenter": true
+      },
+      {
+       "name": "Jeff Linderoth",
+       "affiliation": "University of Wisconsin-Madison",
+       "presenter": false
+      }
+     ],
+     "presenter": "Ransheng Guan"
+    },
+    {
+     "evdid": 387,
+     "number": "5",
+     "time": "17:15-17:30",
+     "title": "Safety-Constrained Multi-Agent Reinforcement Learning for Naval Search with an Adaptive Target",
+     "authors": [
+      {
+       "name": "Seung Jin Choi",
+       "affiliation": "Virginia Tech",
+       "presenter": true
+      }
+     ],
+     "presenter": "Seung Jin Choi"
+    }
+   ]
+  },
+  {
+   "evt": 293,
+   "code": "WA61",
+   "title": "Inventory Management in Logistics Systems: Policies, Learning, and Asymptotic Insights",
+   "type": "Invited Session",
+   "track": "Transportation Science and Logistics (TSL) Society",
+   "room": "Moscone South-8 (Exhibit Level)",
+   "time": "8:00 AM - 9:15 AM",
+   "day": "Wednesday",
+   "date": "November 4",
+   "start": "08:00",
+   "end": "09:15",
+   "chairs": [
+    "Shuai Li",
+    "Minda Zhao"
+   ],
+   "panelists": [],
+   "moderators": [],
+   "fields": {
+    "Session Title": "Inventory Management in Logistics Systems: Policies, Learning, and Asymptotic Insights",
+    "Session Type": "Invited Session",
+    "Topic": "Transportation Science and Logistics (TSL) Society",
+    "Co-Topic 1": "Transportation Science and Logistics (TSL) Society",
+    "Co-Topic 2": "Transportation Science and Logistics (TSL) Society",
+    "Room": "Moscone South-8 (Exhibit Level)",
+    "Session Chair 1": "Shuai Li",
+    "Session Chair 2": "Minda Zhao"
+   },
+   "url": "https://submissions.mirasmart.com/InformsAnnual2026/Itinerary/EventDetail.aspx?evt=293",
+   "talks": [
+    {
+     "evdid": 1303,
+     "number": "1",
+     "time": "08:00-08:15",
+     "title": "Policy Optimization for Inventory Models",
+     "authors": [
+      {
+       "name": "Xin Chen",
+       "affiliation": "Georgia Institute of Technology",
+       "presenter": false
+      },
+      {
+       "name": "Minda Zhao",
+       "affiliation": "Georgia Institute of Technology",
+       "presenter": true
+      }
+     ],
+     "presenter": "Minda Zhao"
+    },
+    {
+     "evdid": 1304,
+     "number": "2",
+     "time": "08:15-08:30",
+     "title": "Optimality Gap of TBS Policies Decays Exponential in the Regular-Source Lead Time for Dual-Sourcing Models",
+     "authors": [
+      {
+       "name": "Shuai Li",
+       "affiliation": "Georgia Institute of Technology",
+       "presenter": true
+      },
+      {
+       "name": "Xin Chen",
+       "affiliation": "Georgia Institute of Technology",
+       "presenter": false
+      },
+      {
+       "name": "Weijun Xie",
+       "affiliation": "Georgia Institute of Technology",
+       "presenter": false
+      }
+     ],
+     "presenter": "Shuai Li"
+    },
+    {
+     "evdid": 1305,
+     "number": "3",
+     "time": "08:30-08:45",
+     "title": "Approximation Algorithms for Inventory Problems with Decomposable Submodular Ordering Costs",
+     "authors": [
+      {
+       "name": "Retsef Levi",
+       "affiliation": "MIT",
+       "presenter": false
+      },
+      {
+       "name": "Georgia Perakis",
+       "affiliation": "Massachusetts Institute of Technology",
+       "presenter": false
+      },
+      {
+       "name": "Emily Zhang",
+       "affiliation": "Massachusetts Institute of Technology",
+       "presenter": true
+      }
+     ],
+     "presenter": "Emily Zhang"
+    },
+    {
+     "evdid": 1377,
+     "number": "4",
+     "time": "08:45-09:00",
+     "title": "Design of Decentralized Spatial Service Systems",
+     "authors": [
+      {
+       "name": "Xingyu Bai",
+       "affiliation": "The Hong Kong Polytechnic University",
+       "presenter": true
+      }
+     ],
+     "presenter": "Xingyu Bai"
+    },
+    {
+     "evdid": 3158,
+     "number": "5",
+     "time": "09:00-09:15",
+     "title": "On ICCM Medication Distribution for Community Health Assistants in Liberia: A Brownian Inventory Model and Its Analysis",
+     "authors": [
+      {
+       "name": "Baris Ata",
+       "affiliation": "University of Chicago, Booth School of Business",
+       "presenter": true
+      },
+      {
+       "name": "Yufan Chen",
+       "affiliation": "Unoversity of Chicago Booth School of Business",
+       "presenter": false
+      },
+      {
+       "name": "Robert Montgomery",
+       "affiliation": "University of California at San Diego",
+       "presenter": false
+      }
+     ],
+     "presenter": "Baris Ata"
+    }
+   ]
+  },
+  {
+   "evt": 287,
+   "code": "WB13",
+   "title": "Decision-Making and Optimization under Partial Information and Strategic Interaction",
+   "type": "Invited Session",
+   "track": "Manufacturing and Service Operations Management (MSOM)",
+   "room": "Moscone South-151 (Upper Mezz)",
+   "time": "9:30 AM - 10:45 AM",
+   "day": "Wednesday",
+   "date": "November 4",
+   "start": "09:30",
+   "end": "10:45",
+   "chairs": [
+    "Shixin Wang"
+   ],
+   "panelists": [],
+   "moderators": [],
+   "fields": {
+    "Session Title": "Decision-Making and Optimization under Partial Information and Strategic Interaction",
+    "Session Type": "Invited Session",
+    "Topic": "Manufacturing and Service Operations Management (MSOM)",
+    "Co-Topic 1": "Manufacturing and Service Operations Management (MSOM)",
+    "Co-Topic 2": "Manufacturing and Service Operations Management (MSOM)",
+    "Room": "Moscone South-151 (Upper Mezz)",
+    "Session Chair 1": "Shixin Wang"
+   },
+   "url": "https://submissions.mirasmart.com/InformsAnnual2026/Itinerary/EventDetail.aspx?evt=287",
+   "talks": [
+    {
+     "evdid": 1281,
+     "number": "1",
+     "time": "09:30-09:45",
+     "title": "Chance-Constrained Combinatorial Optimization problems with Information Discovery",
+     "authors": [
+      {
+       "name": "Jaime Perez",
+       "affiliation": "University of South Florida",
+       "presenter": true
+      },
+      {
+       "name": "Juan Borrero",
+       "affiliation": "University of South Florida",
+       "presenter": false
+      },
+      {
+       "name": "Leonardo Lozano",
+       "affiliation": "University of Cincinnati",
+       "presenter": false
+      }
+     ],
+     "presenter": "Jaime Perez"
+    },
+    {
+     "evdid": 1313,
+     "number": "2",
+     "time": "09:45-10:00",
+     "title": "Partially Observable Multistage Stochastic Programming for Hurricane Logistics Planning",
+     "authors": [
+      {
+       "name": "Homa Khakan",
+       "affiliation": "Clemson University",
+       "presenter": true
+      },
+      {
+       "name": "Yongjia Song",
+       "affiliation": "Clemson University",
+       "presenter": false
+      }
+     ],
+     "presenter": "Homa Khakan"
+    },
+    {
+     "evdid": 1314,
+     "number": "3",
+     "time": "10:00-10:15",
+     "title": "Computing Pure Nash Equilibria in Integer Cost-Sharing Games with Coupling Constraints",
+     "authors": [
+      {
+       "name": "Bainian Hao",
+       "affiliation": "Chang'an University",
+       "presenter": false
+      },
+      {
+       "name": "Robert Hildebrand",
+       "affiliation": "Virginia Tech",
+       "presenter": false
+      },
+      {
+       "name": "Hyunwoo Lee",
+       "affiliation": "Virginia Tech",
+       "presenter": false
+      },
+      {
+       "name": "Carla Michini",
+       "affiliation": "University of Wisconsin - Madison",
+       "presenter": true
+      }
+     ],
+     "presenter": "Carla Michini"
+    },
+    {
+     "evdid": 1408,
+     "number": "4",
+     "time": "10:15-10:30",
+     "title": "Centralized Training for Partially Decentralized Execution in Multi-Agent Reinforcement Learning",
+     "authors": [
+      {
+       "name": "Jun Zhou",
+       "affiliation": "University of Houston",
+       "presenter": true
+      }
+     ],
+     "presenter": "Jun Zhou"
+    }
+   ]
+  }
+ ],
+ "note": "Snapshot of the sessions used by the Example tab only."
+}
