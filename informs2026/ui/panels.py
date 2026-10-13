@@ -2,7 +2,7 @@
 
 import streamlit as st
 
-from core import config, ics, inputs, phone_html, timefmt
+from core import config, ics, inputs, pdf, phone_html, timefmt
 from ui.calendar import DAY_END, DAY_START, PX, calendar_html
 
 
@@ -202,6 +202,13 @@ def outlook_downloads(sched, key):
         "15-minute one; Apple and Google Calendar use both). No invitations are sent. Re-importing updates "
         "events instead of duplicating them. "
         f"The same files are written to `{config.ICS_OUT.name}` and `{config.ICS_DIR.name}/` on every build.")
+
+    st.markdown("**Printable PDF**")
+    cal = calendar_html(sched, print_view=True)
+    st.download_button("Week calendar (.pdf)", lambda: pdf.calendar_pdf(cal), file_name="informs2026_calendar.pdf",
+                       mime="application/pdf", key=f"pdf_{key}", type="primary")
+    st.caption("The calendar above on one landscape Letter page, scaled to fit. Takes a few seconds the first time. "
+               f"From the terminal: `.venv/bin/python build.py --pdf` writes `{config.PDF_OUT.name}`.")
 
 
 def schedule_view(sched, pickers):

@@ -9,6 +9,7 @@ OUT = HERE / "itinerary.md"
 ICS_OUT = HERE / "itinerary.ics"
 ICS_DIR = HERE / "calendar"  # one .ics per event, for drag-and-drop into Outlook
 HTML_OUT = HERE / "itinerary.html"  # phone-friendly, offline, self-contained
+PDF_OUT = HERE / "itinerary.pdf"  # week calendar on one page (build.py --pdf)
 EXAMPLE_DIR = HERE / "example"
 
 DAYS = ["Sat", "Sun", "Mon", "Tue", "Wed"]

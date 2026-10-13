@@ -96,13 +96,14 @@ def itinerary_html(sched, scraped_at=""):
     built = datetime.now().strftime("%b %d, %I:%M %p").replace(" 0", " ")
     DARK = ("--bg:#0f1115; --card:#1a1d23; --ink:#e6e8eb; --mute:#9aa1ab; --line:#2a2f37; --accent:#6ea8fe; "
             "--mine:#3a2d0b; --mineb:#f59e0b; --busy:#3a1f0b; --busyb:#fb923c; --code:#252a33; color-scheme: dark;")
+    LIGHT = ("--bg:#f7f7f8; --card:#fff; --ink:#1f2328; --mute:#6b7280; --line:#e5e7eb; --accent:#2563eb; "
+             "--mine:#fef3c7; --mineb:#d97706; --busy:#ffedd5; --busyb:#ea580c; --code:#f1f5f9; color-scheme: light;")
     return f"""<!doctype html>
 <html lang="en"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>INFORMS 2026</title>
 <style>
-:root {{ --bg:#f7f7f8; --card:#fff; --ink:#1f2328; --mute:#6b7280; --line:#e5e7eb; --accent:#2563eb;
-        --mine:#fef3c7; --mineb:#d97706; --busy:#ffedd5; --busyb:#ea580c; --code:#f1f5f9; color-scheme: light; }}
+:root {{ {LIGHT} }}
 @media (prefers-color-scheme: dark) {{ :root:not([data-theme="light"]) {{ {DARK} }} }}
 :root[data-theme="dark"] {{ {DARK} }}
 * {{ box-sizing:border-box; }}
@@ -145,6 +146,13 @@ code {{ background:var(--code); border-radius:4px; padding:0 4px; font-size:13px
 .theme {{ display:flex; border:1px solid var(--line); border-radius:999px; overflow:hidden; background:var(--card); }}
 .theme button {{ border:0; background:none; color:var(--mute); font:inherit; font-size:13px; padding:4px 10px; }}
 .theme button[aria-pressed="true"] {{ background:var(--accent); color:#fff; }}
+@media print {{ /* always light; drop the on-screen controls; keep cards whole */
+  :root, :root[data-theme], :root:not([data-theme="light"]) {{ {LIGHT} --bg:#fff; }}
+  body {{ padding:0; font-size:12px; }}
+  nav, .theme {{ display:none; }}
+  h2 {{ break-after:avoid; }}
+  .card, .warn {{ break-inside:avoid; }}
+}}
 </style>
 <script>/* apply the saved theme before first paint */
 try {{ var t = localStorage.getItem("informs2026-theme"); if (t === "light" || t === "dark") document.documentElement.setAttribute("data-theme", t); }} catch (e) {{}}

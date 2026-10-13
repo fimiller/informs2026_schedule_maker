@@ -19,7 +19,7 @@ User-edited inputs:
 Entry points (keep these thin):
 - `scrape.py` - downloads the program into `sessions.json`; raw HTML cached in `.cache/`.
 - `build.py` - CLI + `build_itinerary()` pipeline (shared with the app). Writes
-  `itinerary.md`, `itinerary.ics`, `calendar/*.ics`, `itinerary.html`.
+  `itinerary.md`, `itinerary.ics`, `calendar/*.ics`, `itinerary.html` (+ `itinerary.pdf` with `--pdf`).
 - `app.py` - Streamlit page layout only (`.venv/bin/streamlit run app.py`). Tabs: Schedule,
   Itinerary, Plain text, Example. Sidebar: rules text, model + last-solve stats, program data.
   The user prefers running the scraper from the terminal.
@@ -37,11 +37,16 @@ Entry points (keep these thin):
 - `schedule.py` structured events + overlap groups for the calendar and exports.
 - `ics.py` calendar files: VTIMEZONE (DST ends Nov 1), two VALARMs (-15 min first, since
   Outlook keeps only the first; then at start). No attendees.
-- `phone_html.py` self-contained phone page with an Auto/Light/Dark switch (localStorage).
+- `phone_html.py` self-contained phone page with an Auto/Light/Dark switch (localStorage) and
+  `@media print` styles (forced light, no nav/switch, cards kept whole).
+- `pdf.py` `calendar_pdf(cal_html)`: prints `ui.calendar.calendar_html(sched, print_view=True)`
+  (hours trimmed to the events, no hover hint) on one landscape Letter page, scaled to fit, with
+  Playwright's Chromium (lru_cache). The app passes it to `st.download_button` as a
+  deferred callable, which Streamlit runs via `asyncio.to_thread`, so the sync API is fine there.
 
 `ui/` (Streamlit pieces): `actions.py` (build/scrape/status, cached example build),
 `calendar.py` (week calendar HTML), `panels.py` (overlap pickers, Resolve VERIFY, People not
-yet met, phone/Outlook/HTML downloads), `text.py` (sidebar rules text).
+yet met, phone/Outlook/HTML/PDF downloads), `text.py` (sidebar rules text).
 
 Other: `example/` (people.txt, my_sessions.txt and a 22-session sessions.json snapshot for the
 Example tab; together they show every feature, so extend them when adding one), `MODEL.md`
@@ -56,6 +61,7 @@ code changes invalidate it.
 .venv/bin/python build.py              # re-scrapes only if sessions.json > 7 days old
 .venv/bin/python build.py --no-scrape
 .venv/bin/python build.py --solver highs
+.venv/bin/python build.py --pdf        # also write itinerary.pdf
 .venv/bin/python scrape.py             # resumes from .cache (~70 min from scratch)
 .venv/bin/python scrape.py --force     # deletes .cache and re-scrapes everything
 .venv/bin/python scrape.py --reparse   # rebuild sessions.json from .cache, no network

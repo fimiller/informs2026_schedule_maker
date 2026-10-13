@@ -16,7 +16,7 @@ import sys
 from collections import defaultdict
 from datetime import datetime
 
-from core.config import HERE, HTML_OUT, ICS_DIR, ICS_OUT, MY_SESSIONS, OUT, PEOPLE
+from core.config import HERE, HTML_OUT, ICS_DIR, ICS_OUT, MY_SESSIONS, OUT, PDF_OUT, PEOPLE
 from core.ics import write_calendar_files
 from core.inputs import annotate_my_sessions, load_my_sessions, load_people, load_sessions
 from core.matching import resolve, verify_data
@@ -80,6 +80,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--no-scrape", action="store_true", help="don't refresh a stale sessions.json")
     ap.add_argument("--solver", choices=list(SOLVERS), default="gurobi", help="MIP solver (default gurobi)")
+    ap.add_argument("--pdf", action="store_true", help=f"also write {PDF_OUT.name} (week calendar, one page)")
     args = ap.parse_args()
     if not args.no_scrape:
         log_stderr("checking whether sessions.json needs a refresh...")
@@ -96,6 +97,11 @@ def main():
     n_ics = write_calendar_files(sched)
     HTML_OUT.write_text(sched["html"])
     log_stderr(f"wrote {HTML_OUT.name} (phone-friendly; AirDrop or email it to your phone)")
+    if args.pdf:
+        from core.pdf import calendar_pdf
+        from ui.calendar import calendar_html
+        PDF_OUT.write_bytes(calendar_pdf(calendar_html(sched, print_view=True)))
+        log_stderr(f"wrote {PDF_OUT.name} (week calendar to print)")
     log_stderr(f"wrote {ICS_OUT.name} and {n_ics} single-event files in {ICS_DIR.name}/ "
                "(import into Outlook, or drag files onto your calendar)")
     counts = defaultdict(int)

@@ -68,16 +68,21 @@ def talks_html(ppl):
     return "".join(out)
 
 
-def calendar_html(sched):
+def calendar_html(sched, print_view=False):
+    """Week calendar. print_view: hours trimmed to the events, no hover hint (for the PDF)."""
+    start, end = DAY_START, DAY_END
+    if print_view:
+        start = min(e["s"] for e in sched["events"]) // 60 * 60
+        end = -(-max(e["e"] for e in sched["events"]) // 60) * 60
     days = [d for d in config.DAYS if any(e["day"] == d for e in sched["events"] if e["kind"] != "fixed")]
-    height = (DAY_END - DAY_START) * PX
+    height = (end - start) * PX
     esc = html.escape
     cols = []
     for d in days:
         evs = [e for e in sched["events"] if e["day"] == d]
         boxes = []
         for ev in [e for e in evs if e["kind"] == "free"]:
-            top, h = (ev["s"] - DAY_START) * PX, (ev["e"] - ev["s"]) * PX
+            top, h = (ev["s"] - start) * PX, (ev["e"] - ev["s"]) * PX
             boxes.append(f'<div class="ev free" style="top:{top}px;height:{h}px;left:0;width:100%">'
                          f'{esc(ev["title"])}</div>')
         # Collapse several unchosen options in one block into a single box so lanes stay readable.
@@ -99,8 +104,8 @@ def calendar_html(sched):
             evs = [e for e in evs if e not in grp]
         evs = evs + merged
         for ev, lane, n in lanes([e for e in evs if e["kind"] != "free"]):
-            top = (max(ev["s"], DAY_START) - DAY_START) * PX
-            h = max((min(ev["e"], DAY_END) - max(ev["s"], DAY_START)) * PX, 14)
+            top = (max(ev["s"], start) - start) * PX
+            h = max((min(ev["e"], end) - max(ev["s"], start)) * PX, 14)
             cls = ev["kind"]
             if ev["kind"] == "session":
                 cls += (" mine" if ev.get("mine") else " chosen") if ev["chosen"] else " alt"
@@ -137,8 +142,8 @@ def calendar_html(sched):
                 f'<b>{esc(head)}</b> <span class="tm">{span}</span>{body if ev["kind"] != "meal" else "<br>" + body}</div>')
         cols.append(f'<div class="col"><div class="dh">{esc(config.DAY_LONG[d])}</div>'
                     f'<div class="dc" style="height:{height}px">{"".join(boxes)}</div></div>')
-    hours = "".join(f'<div class="hr" style="top:{(h * 60 - DAY_START) * PX}px">{timefmt.fmt(h * 60).replace(":00", "")}</div>'
-                    for h in range(DAY_START // 60, DAY_END // 60 + 1))
+    hours = "".join(f'<div class="hr" style="top:{(h * 60 - start) * PX}px">{timefmt.fmt(h * 60).replace(":00", "")}</div>'
+                    for h in range(start // 60, (end - 1) // 60 + 1))  # no label on the bottom edge
     return f"""
 <style>
   body {{ margin:0; font:12px -apple-system, system-ui, sans-serif; color:#1f2328; background:#fff; }}
@@ -172,7 +177,7 @@ def calendar_html(sched):
 <div class="legend" style="margin-bottom:6px">
   <span class="mine">my session</span><span class="chosen">attending</span><span class="alt">overlapping option</span>
   <span class="meal">meal</span><span class="busy">busy (my_sessions.txt)</span><span class="fixed">conference event</span><span class="free">free block</span>
-  <b>bold</b> = tier 1 &nbsp; (find) = co-author/chair only &nbsp; hover a box for details
+  <b>bold</b> = tier 1 &nbsp; (find) = co-author/chair only{"" if print_view else " &nbsp; hover a box for details"}
 </div>
 <div style="overflow-x:auto"><div class="cal"><div class="axis">{hours}</div>{"".join(cols)}</div></div>
 """
